@@ -301,7 +301,7 @@ collections: # A list of collections the CMS should be able to edit
           required: false,
         }
       - { label: Excerpt, name: excerpt, widget: markdown }
-      - { label: Content, name: body, widget: markdown }
+      - { label: Content, name: body, widget: text }
       - label: 'Categories'
         name: 'categories'
         widget: 'list'
