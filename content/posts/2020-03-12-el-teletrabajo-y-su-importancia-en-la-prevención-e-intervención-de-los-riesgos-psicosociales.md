@@ -5,6 +5,7 @@ title: >-
   PSICOSOCIALES
 status: Published
 date: 2020-03-12T21:22:14.588Z
+featuredImage: 'https://ucarecdn.com/51d132a4-8035-4839-9788-f4b2e6cb12d1/'
 excerpt: >-
   Resumen 
 
