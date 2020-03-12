@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Mountains
+title: Mountains2
 status: Published
 date: '2018-03-28'
 featuredImage: 'https://ucarecdn.com/01c617a2-a364-466b-851f-abed3e1f9ff7/'
