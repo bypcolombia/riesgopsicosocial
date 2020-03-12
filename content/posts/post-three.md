@@ -3,8 +3,7 @@ template: SinglePost
 title: Mountains
 status: Published
 date: '2018-03-28'
-featuredImage: >-
-  https://ucarecdn.com/b89e588f-5659-47e9-9caa-6be0ad058572/-/crop/1690x1728/0,638/-/preview/
+featuredImage: 'https://ucarecdn.com/01c617a2-a364-466b-851f-abed3e1f9ff7/'
 excerpt: This is an excerpt of Post Two
 categories:
   - category: Updates
