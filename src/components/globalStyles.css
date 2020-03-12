@@ -1,9 +1,9 @@
 :root {
-  --primary: #00c2bd;
-  --secondary: #000;
-  --lightGrey: whitesmoke;
-  --midGrey: #cacaca;
-  --darkGrey: #272727;
+  --primary: #7f20b0;
+  --secondary: #4d007f;
+  --lightGrey: #f5f5f6;
+  --midGrey: #e1e2e1;
+  --darkGrey: #919192;;
   --danger: #ff3d3d;
   --font-primary: 'Open Sans', sans-serif;
   --font-system: system-ui; /* postcssPresetEnv */
