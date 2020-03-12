@@ -1,7 +1,6 @@
 ---
 template: BlogIndex
-title: Updates
-subtitle: ''
-featuredImage: 'https://ucarecdn.com/83a3c73d-f234-4086-9fad-cee3a9626230/'
+title: Blog
+subtitle: Ultimas noticias sobre Seguridad y Salud en el trabajo y Riesgo Psicosocial
+featuredImage: 'https://ucarecdn.com/cf2288f8-c5bf-43ea-89a6-1a57d33e3257/'
 ---
-
