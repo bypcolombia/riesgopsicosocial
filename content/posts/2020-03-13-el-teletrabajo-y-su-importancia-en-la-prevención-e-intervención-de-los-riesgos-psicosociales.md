@@ -6,25 +6,8 @@ title: >-
 status: Published
 date: 25/09/2019
 excerpt: >-
-  Resumen 
-
-
   En este artículo se expone la importancia del Teletrabajo, en la prevención e
-  intervención de los Riesgos Psicosociales (RPS), considerando por una parte
-  dimensiones tales como el liderazgo, las relaciones sociales en el trabajo, el
-  control y autonomía sobre el trabajo, la claridad en el rol, las demandas
-  ambientales y de esfuerzo físico, la influencia del ambiente laboral sobre el
-  extra laboral y las demandas de la jornada de trabajo; a nivel extra laboral,
-  el tiempo fuera del trabajo y el desplazamiento; dimensiones que impactan
-  directamente en el nivel de estrés de los colaboradores; y por otra, los
-  beneficios expuestos en los resultados del último estudio de penetración del
-  Teletrabajo en Colombia, los cuales fueron sustentados por el Ministro de las
-  Tecnologías de la Información, David Luna, en la Tercera Feria Internacional
-  del Teletrabajo; en términos de variables como el aumento en el uso de las
-  tecnologías de la información, disminución en los tiempos de desplazamientos,
-  reducción de la huella de carbono que impacta directa y positivamente el medio
-  ambiente, mayor control y autonomía sobre el trabajo, mejoramiento de la
-  calidad de vida y aumento en la productividad, entre otros.
+  intervención de los Riesgos Psicosociales (RPS)
 
 
   Palabras clave: Teletrabajo, Riesgos Psicosociales (RPS), Tecnologías de la
@@ -32,8 +15,16 @@ excerpt: >-
 
 
   Autora: Ingrith Vélez Ramos.
+meta:
+  description: 'Teletrabajo, Riesgos Psicosociales (RPS), Tecnologías de la Información.'
+  title: EL TELETRABAJO
 ---
 Este artículo fue publicado originalmente en septiembre de 2016 en [http://www.teletrabajo.co.com ](< http://www.teletrabajo.co.com>)
+
+Resumen 
+
+En este artículo se expone la importancia del Teletrabajo, en la prevención e intervención de los Riesgos Psicosociales (RPS), considerando por una parte dimensiones tales como el liderazgo, las relaciones sociales en el trabajo, el control y autonomía sobre el trabajo, la claridad en el rol, las demandas ambientales y de esfuerzo físico, la influencia del ambiente laboral sobre el extra laboral y las demandas de la jornada de trabajo; a nivel extra laboral, el tiempo fuera del trabajo y el desplazamiento; dimensiones que impactan directamente en el nivel de estrés de los colaboradores; y por otra, los beneficios expuestos en los resultados del último estudio de penetración del Teletrabajo en Colombia, los cuales fueron sustentados por el Ministro de las Tecnologías de la Información, David Luna, en la Tercera Feria Internacional del Teletrabajo; en términos de variables como el aumento en el uso de las tecnologías de la información, disminución en los tiempos de desplazamientos, reducción de la huella de carbono que impacta directa y positivamente el medio ambiente, mayor control y autonomía sobre el trabajo, mejoramiento de la calidad de vida y aumento en la productividad, entre otros.
+
 
 En días pasados, 30 y 31 de agosto, se realizó la III Feria Internacional de Teletrabajo, con el objetivo de exponer las últimas tendencias en materia de la eficiente relación e interdependencia entre el trabajo, la tecnología y los beneficios de esta relación, en la cual se enmarca el Teletrabajo; en dicha feria se llevó a cabo la firma del Pacto por el Teletrabajo, por medio del cual, los Ministerios de Trabajo y de Tecnologías de la Información, en conjunto con empresas públicas y privadas como Bienestar y Productividad, representante de People Vox en Colombia, ratificamos nuestro compromiso en la promoción y gestión efectiva del Teletrabajo y en la generación de Bienestar y Calidad de Vida para los trabajadores Colombianos.
 
