@@ -53,8 +53,8 @@ videoTitle: >-
   Metodología: Diagnóstico, Sistema de Vigilancia Epidemiológica (SVE) e
   intervención en RPS
 accordion:
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
+  - description: Taciti lorem tempor quam vestibulum dis habitassess
+    title: Dia
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
   - description: Taciti lorem tempor quam vestibulum dis habitasse
