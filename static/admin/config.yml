@@ -287,15 +287,8 @@ collections: # A list of collections the CMS should be able to edit
         widget: 'select'
         options: ['Published', 'Featured', 'Draft']
         default: 'Published'
-<<<<<<< HEAD
-<<<<<<< HEAD
       - { label: Date / Order, name: date, widget: date}
-=======
-      - { label: Date / Order, name: date, widget: date }
->>>>>>> parent of c97fbf1... Update config.yml
-=======
-      - { label: Date / Order, name: date, widget: date }
->>>>>>> parent of c97fbf1... Update config.yml
+
       - {
           label: Featured Image,
           name: featuredImage,
