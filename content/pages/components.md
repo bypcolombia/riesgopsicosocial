@@ -111,15 +111,37 @@ accordion:
 gallery:
   - alt: Amarilo
     image: 'https://ucarecdn.com/a7048184-bc4c-42ce-a159-112d31e1a57d/'
-    title: Amarilo
+    title: ''
   - alt: coopcarvajal
     image: 'https://ucarecdn.com/5d995d4a-db3f-4d0b-b31c-4fcf63dbfff7/'
-    title: coopcarvajal
+    title: ''
   - alt: Petro Colombia
     image: 'https://ucarecdn.com/1ed36a0b-460d-488b-9cf4-afef28a6593f/'
-    title: Petro Colombia
+    title: ''
+  - alt: BDO
+    image: 'https://ucarecdn.com/a99f30f2-4d9b-4a01-983b-80aed1c7a298/'
+    title: ''
+  - alt: Despegar
+    image: 'https://ucarecdn.com/0630f9f4-503e-4863-a037-f898f9d1ce98/'
+    title: ''
+  - alt: Frontera Energy
+    image: 'https://ucarecdn.com/03c375b9-79ed-4811-a269-39d032790c9d/'
+    title: ''
+  - alt: La Arboleda
+    image: 'https://ucarecdn.com/cfc8b3ab-e264-47bf-ab14-ee79c91eb0e2/'
+    title: ''
+  - alt: Skynet
+    image: 'https://ucarecdn.com/215413b7-27db-49d8-a0dd-a582637288fb/'
+    title: ''
+  - alt: Parking Inernacional
+    image: 'https://ucarecdn.com/0c96a80d-364d-43f9-99d2-5f69af3e6f65/'
+    title: ''
+  - alt: 2nv
+    image: 'https://ucarecdn.com/2e86cfaf-745f-4bd1-8739-ea5e74f3c8e1/'
+  - alt: Amway
+    image: 'https://ucarecdn.com/68cfffee-a02e-46fd-955e-901b3c2b3984/'
 meta:
-  description: This is a meta description.
-  title: Components Page
+  description: 'Riesgo Psicosocial en Colombia, Envaluación de Riesgo psicosocial'
+  title: Riesgo Psicosocial
 ---
 
