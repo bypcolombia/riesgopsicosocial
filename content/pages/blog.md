@@ -1,9 +1,9 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+title: Blog
+featuredImage: 'https://ucarecdn.com/09abbe00-38b5-4b7b-b0c9-9ee0cd16307f/'
+subtitle: '## Bienestar y Porductividad'
 meta:
   description: This is a meta description.
   title: Blog Page
