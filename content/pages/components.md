@@ -95,24 +95,29 @@ videoTitle: >-
   Metodología: Diagnóstico, Sistema de Vigilancia Epidemiológica (SVE) e
   intervención en RPS
 accordion:
-  - description: Taciti lorem tempor quam vestibulum dis habitassess
-    title: Dia
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
+  - description: >-
+      Coordinación de  la actividad - Coordinación de la comunicación
+      corporativa anunciando la actividad - Toma de la información, con la
+      respectiva sensibilización y consentimiento informado
+    title: Diagnostico de Riesgos Psicosociales
+  - description: >-
+      Análisis de datos y resultados - Entrega de resultados y recomendaciones -
+      Certificación de custodia de la información
+    title: Elaboración del documento de Vigilancia Epidemiológica
+  - description: >-
+      Ejecución de actividades programadas - Seguimiento a través de los
+      indicadores contenidos en el documento de vigilancia epidemiológica
+    title: Puesta en marcha del plan de intervención
 gallery:
-  - alt: yellow rope image
-    image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
-    title: Yellow Rope
-  - alt: umbrellas
-    image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: 'https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/'
-    title: Yellow Ice Cream
+  - alt: Amarilo
+    image: 'https://ucarecdn.com/a7048184-bc4c-42ce-a159-112d31e1a57d/'
+    title: Amarilo
+  - alt: coopcarvajal
+    image: 'https://ucarecdn.com/5d995d4a-db3f-4d0b-b31c-4fcf63dbfff7/'
+    title: coopcarvajal
+  - alt: Petro Colombia
+    image: 'https://ucarecdn.com/1ed36a0b-460d-488b-9cf4-afef28a6593f/'
+    title: Petro Colombia
 meta:
   description: This is a meta description.
   title: Components Page
