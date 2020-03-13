@@ -1,8 +1,8 @@
 ---
 template: ComponentsPage
 slug: components
-title: Servicios
-featuredImage: 'https://ucarecdn.com/73d96430-f6f1-4014-9e19-523feef42151/'
+title: Riesgo Psicosocial
+featuredImage: 'https://ucarecdn.com/d872b4f7-7092-4369-9976-93403d216706/'
 subtitle: "### \uFEFFRIESGO PSICOSOCIAL -SG - SST - GESTIÓN HUMANA - CAPACITACIÓN - BAILE TERAPIA"
 section1: >-
   ## This is a container component
@@ -49,3 +49,4 @@ meta:
   description: This is a meta description.
   title: Components Page
 ---
+
