@@ -6,7 +6,7 @@ backend:
 media_library:
   name: uploadcare
   config:
-    publicKey: Y64dbaf416d5308fd9da2
+    publicKey: 64dbaf416d5308fd9da2
 collections: # A list of collections the CMS should be able to edit
   - name: 'pages'
     label: 'Page'
