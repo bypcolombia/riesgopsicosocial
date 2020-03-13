@@ -1,19 +1,12 @@
 # See https://github.com/netlify/netlify-cms/blob/master/example/config.yml
 backend:
   name: git-gateway
-  branch: master
-# display_url: https://gatsbro.netlify.com # This url will display in the top-right of the CMS
+  branch: master # Branch to update (optional; defaults to master)
+# These lines should *not* be indented
 media_library:
   name: uploadcare
   config:
-    publicKey: 64dbaf416d5308fd9da2
-    multiple: false
-    tabs: 'file camera url facebook gdrive'
-    effects: 'crop,rotate,enhance,grayscale'
-    imageShrink: '2000x2000'
-    previewStep: true
-    clearable: true
-
+    publicKey: Y64dbaf416d5308fd9da2
 collections: # A list of collections the CMS should be able to edit
   - name: 'pages'
     label: 'Page'
@@ -37,9 +30,10 @@ collections: # A list of collections the CMS should be able to edit
               label: Featured Image,
               name: featuredImage,
               widget: image,
-              options:
+                options:
                 { media_library: { config: { imageShrink: 2600x2600 } } },
-            }
+            }          
+         
           - { label: Subtitle, name: subtitle, widget: markdown }
           - { label: Body, name: body, widget: markdown }
           - { label: Address, name: address, widget: text }
@@ -206,7 +200,7 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Slug, name: slug, widget: hidden, default: '' }
           - { label: Title, name: title, widget: string }
           - { label: Featured Image, name: featuredImage, widget: image }
-          - { label: Subtitle, name: subtitle, widget: markdown, required: false }
+          - { label: Subtitle, name: subtitle, widget: markdown }
           - { label: Body, name: body, widget: markdown }
           - label: 'Accordion'
             name: 'accordion'
@@ -285,7 +279,7 @@ collections: # A list of collections the CMS should be able to edit
     folder: content/posts
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     create: true # Allow users to create new documents in this collection
-       fields: 
+    fields: # The fields each document in this collection have
       - { label: Template, name: template, widget: hidden, default: SinglePost }
       - { label: Title, name: title, widget: string }
       - label: 'Status'
@@ -293,16 +287,15 @@ collections: # A list of collections the CMS should be able to edit
         widget: 'select'
         options: ['Published', 'Featured', 'Draft']
         default: 'Published'
-      - {
-        label: Date / Order, name: date, widget: date}
+      - { label: Date / Order, name: date, widget: date }
       - {
           label: Featured Image,
           name: featuredImage,
           widget: image,
           required: false,
         }
-      - { label: Excerpt, name: excerpt, widget: markdown }
-      - { label: Content, name: body, widget: text }
+      - { label: Excerpt, name: excerpt, widget: text }
+      - { label: Content, name: body, widget: markdown }
       - label: 'Categories'
         name: 'categories'
         widget: 'list'
