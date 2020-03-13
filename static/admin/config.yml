@@ -298,7 +298,7 @@ collections: # A list of collections the CMS should be able to edit
         name: date, 
         widget: date,
         default: "",
-        dateFormat: "YYY.MM.DD"
+        dateFormat: "YYYY.MM.DD"
         }
       - {
           label: Featured Image,
