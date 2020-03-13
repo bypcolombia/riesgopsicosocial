@@ -1,12 +1,38 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@gadapi 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+thriveweb
+/
+yellowcake
+10
+14465
+ Code Issues 3 Pull requests 1 Actions Projects 0 Wiki Security Insights
+yellowcake/static/admin/config.yml
+@wingtonbrito wingtonbrito fix misspelling for the components page
+73564f2 on 17 Aug 2019
+@wingtonbrito@sam-scott
+402 lines (393 sloc)  13.1 KB
+  
 # See https://github.com/netlify/netlify-cms/blob/master/example/config.yml
 backend:
   name: git-gateway
-  branch: master
+  branch: master # Branch to update (optional; defaults to master)
+
 # display_url: https://gatsbro.netlify.com # This url will display in the top-right of the CMS
 media_library:
   name: uploadcare
   config:
-    publicKey: 64dbaf416d5308fd9da2
+    publicKey: a73a170cb5cdef662983
     multiple: false
     tabs: 'file camera url facebook gdrive'
     effects: 'crop,rotate,enhance,grayscale'
@@ -206,7 +232,7 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Slug, name: slug, widget: hidden, default: '' }
           - { label: Title, name: title, widget: string }
           - { label: Featured Image, name: featuredImage, widget: image }
-          - { label: Subtitle, name: subtitle, widget: markdown, required: false }
+          - { label: Subtitle, name: subtitle, widget: markdown }
           - { label: Body, name: body, widget: markdown }
           - label: 'Accordion'
             name: 'accordion'
@@ -285,7 +311,7 @@ collections: # A list of collections the CMS should be able to edit
     folder: content/posts
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     create: true # Allow users to create new documents in this collection
-       fields: # The fields each document in this collection have
+    fields: # The fields each document in this collection have
       - { label: Template, name: template, widget: hidden, default: SinglePost }
       - { label: Title, name: title, widget: string }
       - label: 'Status'
@@ -293,21 +319,15 @@ collections: # A list of collections the CMS should be able to edit
         widget: 'select'
         options: ['Published', 'Featured', 'Draft']
         default: 'Published'
-      - {
-        label: Date / Order, 
-        name: date, 
-        widget: date,
-        default: "",
-        dateFormat: false
-        }
+      - { label: Date / Order, name: date, widget: date }
       - {
           label: Featured Image,
           name: featuredImage,
           widget: image,
           required: false,
         }
-      - { label: Excerpt, name: excerpt, widget: markdown }
-      - { label: Content, name: body, widget: text }
+      - { label: Excerpt, name: excerpt, widget: text }
+      - { label: Content, name: body, widget: markdown }
       - label: 'Categories'
         name: 'categories'
         widget: 'list'
@@ -405,3 +425,15 @@ collections: # A list of collections the CMS should be able to edit
               widget: string,
               required: false,
             }
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
