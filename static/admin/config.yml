@@ -160,8 +160,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: 'list'
             fields:
               - { name: image, label: Image, widget: image,
-             media_library:
-            config:
+            
              defaultOperations: '/resize/300x/'
               
                 }
