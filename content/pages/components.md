@@ -48,7 +48,7 @@ section1: >-
   syndrome](https://ucarecdn.com/4071df0d-f9c7-4243-a726-1ea5bd895e45/ "Riesgo
   Psicosocial")
 section2: >-
-  * ## Quién puede hacer el Diagnóstico de Riesgo Psicosocial
+  ## Quién puede hacer el Diagnóstico de Riesgo Psicosocial
 
 
   ​​Debe ser realizado por PSICÓLOGOS - ESPECIALISTAS, CON LICENCIA VIGENTE EN
@@ -96,24 +96,30 @@ videoTitle: >-
   intervención en RPS
 accordion:
   - description: >-
-      Coordinación de  la actividad - Coordinación de la comunicación
-      corporativa anunciando la actividad - Toma de la información, con la
-      respectiva sensibilización y consentimiento informado
+      * Coordinación de  la actividad 
+
+      * Coordinación de la comunicación corporativa anunciando la actividad
+
+      * Toma de la información, con la respectiva sensibilización y
+      consentimiento informado
     title: Diagnostico de Riesgos Psicosociales
-  - description: >-
-      Análisis de datos y resultados - Entrega de resultados y recomendaciones -
-      Certificación de custodia de la información
+  - description: |-
+      * Análisis de datos y resultados 
+      * Entrega de resultados y recomendaciones 
+      * Certificación de custodia de la información
     title: Elaboración del documento de Vigilancia Epidemiológica
   - description: >-
-      Ejecución de actividades programadas - Seguimiento a través de los
-      indicadores contenidos en el documento de vigilancia epidemiológica
+      * Ejecución de actividades programadas 
+
+      * Seguimiento a través de los indicadores contenidos en el documento de
+      vigilancia epidemiológica
     title: Puesta en marcha del plan de intervención
 gallery:
   - alt: Amarilo
     image: 'https://ucarecdn.com/a7048184-bc4c-42ce-a159-112d31e1a57d/'
     title: ''
   - alt: coopcarvajal
-    image: 'https://ucarecdn.com/5d995d4a-db3f-4d0b-b31c-4fcf63dbfff7/'
+    image: 'https://ucarecdn.com/cb1da592-158f-4e90-b637-c6c91bc9bce0/'
     title: ''
   - alt: Petro Colombia
     image: 'https://ucarecdn.com/1ed36a0b-460d-488b-9cf4-afef28a6593f/'
@@ -122,7 +128,7 @@ gallery:
     image: 'https://ucarecdn.com/a99f30f2-4d9b-4a01-983b-80aed1c7a298/'
     title: ''
   - alt: Despegar
-    image: 'https://ucarecdn.com/0630f9f4-503e-4863-a037-f898f9d1ce98/'
+    image: 'https://ucarecdn.com/dbe07872-793e-4507-8c92-1450ebfda57a/'
     title: ''
   - alt: Frontera Energy
     image: 'https://ucarecdn.com/03c375b9-79ed-4811-a269-39d032790c9d/'
@@ -144,3 +150,4 @@ meta:
   description: 'Riesgo Psicosocial en Colombia, Envaluación de Riesgo psicosocial'
   title: Riesgo Psicosocial
 ---
+
