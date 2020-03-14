@@ -89,7 +89,7 @@ section2: >-
   * Focus Groups
 
   * Análisis de Puestos de Trabajo
-video: 'https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/'
+video: 'https://ucarecdn.com/fca1505b-ee5e-41ab-a469-d73ba771b692/'
 videoPoster: 'https://ucarecdn.com/705e7f76-aee3-4acb-a99b-04e4c5a92f3a/'
 videoTitle: >-
   Metodología: Diagnóstico, Sistema de Vigilancia Epidemiológica (SVE) e
@@ -103,7 +103,7 @@ accordion:
       * Toma de la información, con la respectiva sensibilización y
       consentimiento informado
     title: Diagnostico de Riesgos Psicosociales
-  - description: |-
+  - description: |
       * Análisis de datos y resultados 
       * Entrega de resultados y recomendaciones 
       * Certificación de custodia de la información
