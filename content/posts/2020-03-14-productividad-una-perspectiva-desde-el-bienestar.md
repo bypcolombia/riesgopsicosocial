@@ -5,6 +5,8 @@ status: Published
 date: Mar 11th 17
 featuredImage: 'https://ucarecdn.com/58ff968b-6d7e-46d1-95f5-999fe43e976f/'
 excerpt: 'Autora: Ingrith Véles Ramos'
+categories:
+  - category: Blog
 ---
 El 19 de noviembre de 2017, se cumplen 3 años de la constitución legal de Bienestar y Productividad y sea esta fecha importante, ante todo para agradecer, pero también, para replantearnos sobre que es la Productividad, desde la experiencia adquirida en este tiempo.
 
