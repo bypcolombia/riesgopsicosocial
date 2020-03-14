@@ -131,7 +131,7 @@ gallery:
     image: 'https://ucarecdn.com/cfc8b3ab-e264-47bf-ab14-ee79c91eb0e2/'
     title: ''
   - alt: Skynet
-    image: 'https://ucarecdn.com/215413b7-27db-49d8-a0dd-a582637288fb/'
+    image: 'https://ucarecdn.com/f1f2ee56-ab50-4bd0-9d24-905ab4973467/'
     title: ''
   - alt: Parking Inernacional
     image: 'https://ucarecdn.com/0c96a80d-364d-43f9-99d2-5f69af3e6f65/'
@@ -144,4 +144,3 @@ meta:
   description: 'Riesgo Psicosocial en Colombia, Envaluación de Riesgo psicosocial'
   title: Riesgo Psicosocial
 ---
-
