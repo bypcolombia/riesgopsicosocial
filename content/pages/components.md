@@ -45,8 +45,8 @@ section1: >-
 
 
   ![riesgo psicosocial, burn out
-  syndrome](https://ucarecdn.com/4071df0d-f9c7-4243-a726-1ea5bd895e45/ "Riesgo
-  Psicosocial")
+  syndrome](https://ucarecdn.com/4071df0d-f9c7-4243-a726-1ea5bd895e45/-/crop/1394x754/6,164/-/preview/
+  "Riesgo Psicosocial")
 section2: >-
   ## Quién puede hacer el Diagnóstico de Riesgo Psicosocial
 
@@ -146,6 +146,32 @@ gallery:
     image: 'https://ucarecdn.com/2e86cfaf-745f-4bd1-8739-ea5e74f3c8e1/'
   - alt: Amway
     image: 'https://ucarecdn.com/68cfffee-a02e-46fd-955e-901b3c2b3984/'
+  - alt: Asesores gerenciales y auditores en salud
+    image: 'https://ucarecdn.com/4f8f2bff-5273-4a20-b3ea-d5faa14dc5d5/'
+  - alt: Apple
+    image: 'https://ucarecdn.com/b4f9888e-116f-46b8-a254-74e0a0468d0e/'
+  - alt: Consultores Anbientales y Ocupacionales
+    image: 'https://ucarecdn.com/82f41a0d-8b74-43d1-84a5-57a7ffe1c9a4/'
+  - alt: Civalco S.A.S
+    image: 'https://ucarecdn.com/ef3f57c5-2bc2-4fc9-a8c0-b0d418bed4f7/'
+  - alt: Coopsanitas
+    image: 'https://ucarecdn.com/2401efef-9e96-4738-be77-65014d9986e5/'
+  - alt: despegar.com
+    image: 'https://ucarecdn.com/9cf39aa8-53f5-4ffd-8428-804df0a60729/'
+  - alt: Diseños Street Fashion
+    image: 'https://ucarecdn.com/494d0ece-d4df-499d-862f-6fc4e1a3aa6a/'
+  - alt: Fayad Moudad SAS
+    image: 'https://ucarecdn.com/805888a4-ea3c-4d1e-9d58-4573055e753b/'
+  - alt: Instituto nacional de formación y desarrollo
+    image: 'https://ucarecdn.com/f0773ae0-a5a3-4418-9e31-08be9274a47c/'
+  - alt: Clinica de ojos
+    image: 'https://ucarecdn.com/c6bd6504-882e-4b15-b0b4-1dea2fdcf00b/'
+  - alt: NEC
+    image: 'https://ucarecdn.com/59067edc-93f6-4fc9-9a72-f3eea4917564/'
+  - alt: Remeo Medial Services
+    image: 'https://ucarecdn.com/93cf7e44-51c9-4502-9d80-3e0ae7bcb26b/'
+  - alt: Mundial de Aluminios
+    image: 'https://ucarecdn.com/3e237a0c-f7b6-4a1c-aa19-faa4d2e88c97/'
 meta:
   description: 'Riesgo Psicosocial en Colombia, Envaluación de Riesgo psicosocial'
   title: Riesgo Psicosocial
