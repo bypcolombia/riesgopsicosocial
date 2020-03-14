@@ -154,15 +154,13 @@ collections: # A list of collections the CMS should be able to edit
             widget: 'list'
             fields:
               - { name: title, label: title, widget: string, default: '' }
-              - { name: description, label: description, widget: string }
+              - { name: description, label: description, widget: markdown }
           - label: 'Gallery'
             name: 'gallery'
             widget: 'list'
             fields:
-              - { name: image, label: Image, widget: image
-              media_library:
-              config:
-            media_library:
+              - { name: image, label: Image, widget: image,
+             media_library:
             config:
              defaultOperations: '/resize/300x/'
               
