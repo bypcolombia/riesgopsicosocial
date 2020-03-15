@@ -2,7 +2,7 @@
 template: SinglePost
 title: 'DIAGNÓSTICO DE RIESGO PSICOSOCIAL: ASPECTOS DE MEJORA'
 status: Published
-date: Aug 17th 17
+date: 2017-08-29T19:32:51.945Z
 featuredImage: 'https://ucarecdn.com/bf16eb5b-08ab-4447-9c6c-19af95d4bbc0/'
 excerpt: 'Autora: Ingrith Velez Ramos'
 categories:
@@ -10,7 +10,8 @@ categories:
 ---
 A medida que pasa el 2017, y ya entrados en los últimos meses del año, se empieza a generar estrés en los departamentos de recursos humanos que aún no han dado cumplimiento a la resolución 2646 en el presente año; como organización pionera en el diagnóstico de riesgo psicosocial, en Bienestar y Productividad, hemos sido contactados por 672 empresas de diversos tamaños y sectores económicos y presupuestado el diagnóstico de riesgo psicosocial de 345 compañías colombianas, para un promedio de 24,88 requerimientos por mes, en 27 meses de presencia ininterrumpida en Internet; las compañías que han solicitado nuestros servicios de diagnóstico, nos han permitido entender las necesidades en materia de diagnósticos de riesgos psicosociales, sumado a la experiencia en la realización de los mismos, y es por esto que hoy queremos exponer a la comunidad empresarial, a nuestros colegas y a la comunidad académica, cuáles son esos obstáculos que hacen que muchas organizaciones duden de cual es la mejor forma de realizar el diagnóstico y hacen que se retrase el proceso, obstáculos que van más allá de la voluntad de los empresarios, de departamentos de recursos humanos y de las empresas que prestamos dicho servicio; obstáculos evidenciados a través de mi experiencia como directora de una de las compañías pioneras en el diagnóstico e intervención del riesgo psicosocial en Colombia, que el día de hoy me permiten exponerlas abiertamente, buscando que el Ministerio de Trabajo tome pronto cartas en el asunto, para revisar la resolución 2646 y permitir que se masifique el diagnóstico e intervención del riesgo psicosocial en Colombia, como es el deseo de la mencionada resolución y no poner más obstáculos en la ejecución de esta actividad que a la larga a quienes beneficia, es a los empleados colombianos, generando un mejor país.
 
-Entrando en materia, la mayoría de obstáculos los expuse hace poco más de un año (lo pueden verificar en el siguiente link  https://bienestaryproductividad.wordpress.com/2016/09/03/3/ ) en donde mencionaba que el analfabetismo, la funcionalidad del informe grupal vs individual, aplicativo obsoleto por parte de Mintrabajo, las limitadas formas del cuestionario A y B, dificultades de tipo logístico para organizaciones con número de miembros inferior a 10 personas en zonas remotas del país o el extranjero y un cuestionario extenso; hacían de por sí ya del diagnóstico de riesgo psicosocial, una limitante para empresarios colombianos; hoy expondré más limitantes que están afectando que el objetivo de esta resolución se dé, y es que el objetivo de diagnosticar e intervenir el riesgo psicosocial, no es más que el de generar Bienestar y Calidad de vida a los trabajadores colombianos, no el cumplimiento de la ley por cumplirla, como está ocurriendo en estos momentos, y es que “el cumplimiento de la ley por cumplir” ha llevado a que en algunos escenarios, no se esté dando de modo profesional y efectivo; por lo tanto es importante revisar pronto las disposiciones en materia, antes de que se pierda la total credibilidad de la resolución 2646 y peor aún el trabajo de los especialistas en psicología ocupacional que le hemos puesto nuestra mejor disposición a realizar esta maravillosa tarea en pro de realmente generar Bienestar y Calidad de Vida a los trabajadores colombianos por medio de nuestro trabajo.
+
+Entrando en materia, la mayoría de obstáculos los expuse hace poco más de un año (lo pueden verificar en el siguiente link  https://bienestaryproductividad.wordpress.com/2016/09/03/3/ ) en donde mencionaba que el analfabetismo, la funcionalidad del informe grupal vs individual, aplicativo obsoleto por parte de Mintrabajo, las limitadas formas del cuestionario A y B, dificultades de tipo logístico para organizaciones con número de miembros inferior a 10 personas en zonas remotas del país o el extranjero y un cuestionario extenso; hacían de por sí ya del diagnóstico de riesgo psicosocial, una limitante para empresarios colombianos; hoy expondré más limitantes que están afectando que el objetivo de esta resolución se dé, y es que el objetivo de diagnosticar e intervenir el riesgo psicosocial, no es más que el de generar Bienestar y Calidad de vida a los trabajadores colombianos, no el cumplimiento de la ley por cumplirla, como está ocurriendo en estos momentos, y es que “el cumplimiento de la ley por cumplir” ha llevado a que en algunos escenarios, no se esté dando de modo profesional y efectivo; por lo tanto es importante revisar pronto las disposiciones en materia, antes de que se pierda la total credibilidad de la resolución 2646 y peor aún el trabajo de los especialistas en psicología ocupacional que le hemos puesto nuestra mejor disposición a realizar esta maravillosa tarea en pro de realmente generar Bienestar y Calidad de Vida a los trabajadores colombianos por medio de nuestro trabajo.
 
 Solo estos tres obstáculos que he mencionado en este artículo, están generando que nuestra labor no esté teniendo el impacto esperado, que como lo he mencionado es generar Bienestar y Calidad de Vida a los trabajadores colombianos y  por mi experiencia he podido verificar que el diagnóstico de riesgo psicosocial se hace más por cumplimiento de la ley , ya que al no estar a la vanguardia de los cambios tecnológicos, no ser efectiva y no haber un manejo de los documentos eficiente, hace que el diagnóstico de riesgo psicosocial sea el “patito feo” del cumplimiento de la normatividad laboral respecto a la seguridad y la salud en el trabajo.
 
@@ -32,8 +33,11 @@ En conclusión, hay mucha tela por cortar respecto al manejo del diagnóstico de
 
 Ingrith Velez Ramos
 
-Especialista en Psicología Ocupacional
+
+Especialista en Psicología Ocupacional
+
 
 Directora de Bienestar y Productividad
 
-Representante de People-Vox en Colombia
+
+Representante de People-Vox en Colombia
