@@ -96,27 +96,25 @@ videoTitle: >-
   intervención en RPS
 accordion:
   - description: >-
-      1. Coordinación de  la actividad
+      1. Coordinación de  la actividad\
 
-      2. Coordinación de la comunicación corporativa anunciando la actividad
+      2. Coordinación de la comunicación corporativa anunciando la actividad\
 
       3. Toma de la información, con la respectiva sensibilización y
-      consentimiento informado
+      consentimiento informado\
     title: Diagnostico de Riesgos Psicosociales
   - description: |-
-      1. Análisis de datos y resultados 
+      1. Análisis de datos y resultados\ 
 
-      2. Entrega de resultados y recomendaciones 
+      2. Entrega de resultados y recomendaciones\ 
 
-      3. Certificación de custodia de la información
+      3. Certificación de custodia de la información\
     title: Elaboración del documento de Vigilancia Epidemiológica
-  - description: |-
-      1. Ejecución de actividades programadas 
+  - description: >-
+      1. Ejecución de actividades programadas\
 
-
-
-      1. ![](https://ucarecdn.com/164a76c4-69f2-4ee8-82a5-14e7e18e6c08/)
-         Seguimiento a través de los indicadores contenidos en el documento de vigilancia epidemiológica
+      2. Seguimiento a través de los indicadores contenidos en el documento de
+      vigilancia epidemiológica
     title: Puesta en marcha del plan de intervención
 gallery:
   - alt: Amarilo
