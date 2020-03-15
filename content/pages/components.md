@@ -89,7 +89,7 @@ section2: >-
   * Focus Groups
 
   * Análisis de Puestos de Trabajo
-Separador: ''
+Separador: 'https://ucarecdn.com/451dfe4f-a424-4f80-bdc1-c6b818a03579/'
 Imagen Separador: 'https://ucarecdn.com/b52c2877-e2f0-450a-a35a-64bbd670bfcc/'
 videoTitle: 'Diagnóstico, Sistema de Vigilancia Epidemiológica (SVE) e intervención en RPS'
 accordion: []
