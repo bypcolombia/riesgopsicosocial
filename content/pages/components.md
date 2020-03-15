@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: components
 title: Riesgo Psicosocial
-featuredImage: 'https://ucarecdn.com/d872b4f7-7092-4369-9976-93403d216706/'
+featuredImage: 'https://ucarecdn.com/04b84f6b-2508-4350-814c-3b9d3d8066e3/'
 subtitle: '### PREVENCIÓN, DIAGNÓSTICO E INTERVENCIÓN'
 section1: >-
   ## Qué son los Riesgos Psicosociales (RPS)
@@ -90,7 +90,7 @@ section2: >-
 
   * Análisis de Puestos de Trabajo
 video: 'https://ucarecdn.com/fca1505b-ee5e-41ab-a469-d73ba771b692/'
-videoPoster: 'https://ucarecdn.com/60806eda-df28-49c3-bba7-7a59028f2071/'
+videoPoster: 'https://ucarecdn.com/2b02124e-38e7-40c0-8ed2-9f1b7dabd790/'
 videoTitle: >-
   Metodología: Diagnóstico, Sistema de Vigilancia Epidemiológica (SVE) e
   intervención en RPS
@@ -98,18 +98,24 @@ accordion:
   - description: >-
       * Coordinación de  la actividad 
 
+
       * Coordinación de la comunicación corporativa anunciando la actividad
+
 
       * Toma de la información, con la respectiva sensibilización y
       consentimiento informado
     title: Diagnostico de Riesgos Psicosociales
-  - description: |
+  - description: |-
       * Análisis de datos y resultados 
+
       * Entrega de resultados y recomendaciones 
+
       * Certificación de custodia de la información
     title: Elaboración del documento de Vigilancia Epidemiológica
   - description: >-
       * Ejecución de actividades programadas 
+
+
 
       * Seguimiento a través de los indicadores contenidos en el documento de
       vigilancia epidemiológica
