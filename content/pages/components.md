@@ -110,12 +110,13 @@ accordion:
 
       3. Certificación de custodia de la información
     title: Elaboración del documento de Vigilancia Epidemiológica
-  - description: >-
+  - description: |-
       1. Ejecución de actividades programadas 
 
 
-      2. Seguimiento a través de los indicadores contenidos en el documento de
-      vigilancia epidemiológica
+
+      1. ![](https://ucarecdn.com/164a76c4-69f2-4ee8-82a5-14e7e18e6c08/)
+         Seguimiento a través de los indicadores contenidos en el documento de vigilancia epidemiológica
     title: Puesta en marcha del plan de intervención
 gallery:
   - alt: Amarilo
