@@ -147,7 +147,7 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Sección 1, name: section1, widget: markdown }
           - { label: Sección 2, name: section2, widget: markdown }
           - { name: video, label: separador, widget: file, required: false }
-          - { name: Imagen Separador, label: videoPoster, widget: image }
+          - { name: videoPoster, label: Imagen Separador, widget: image }
           - { label: Titulo, name: videoTitle, widget: string }
           - label: 'Acordión'
             name: 'accordion'
