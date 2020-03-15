@@ -37,7 +37,7 @@
   width: 100%;
   text-align: center;
   color: white;
-  text-shadow: 1px 1px 1px grey;
+  ttext-shadow: 5px 5px 3px #333;
 }
 
 .Poster--videoTitle {
@@ -45,10 +45,10 @@
   top: 50%;
   left: 0;
   transform: translate(0, -50%);
-  font-size: 2rem;
+  font-size: 3rem;
   font-weight: bold;
   width: 100%;
   text-align: center;
   color: white;
-  text-shadow: 1px 1px 1px grey;
+  text-shadow: 5px 5px 3px #333;
 }
