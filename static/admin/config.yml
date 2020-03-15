@@ -243,7 +243,7 @@ collections: # A list of collections the CMS should be able to edit
     editor:
       preview: true
     folder: content/infoPages
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{{slug}}'
     create: true # Allow users to create new documents in this collection
     fields:
       - {
@@ -291,7 +291,7 @@ collections: # A list of collections the CMS should be able to edit
         widget: 'select'
         options: ['Published', 'Featured', 'Draft']
         default: 'Published'
-      - { label:  Date / Order, name: date, widget: date}
+      - { label:  Date / Order, name: date, widget: date, default: '',  format: 'MMM Do YY' ,dateFormat: 'true', timeFormat: 'false'}
       # - {label: Date / Order, name: date, widget: date, default: '', format: 'MMM Do YY'}
       - {
           label: Featured Image,

@@ -5,7 +5,7 @@ import './Footer.css'
 export default () => (
   <div>
     <h2 className="taCenter">
-      síguenos en{' '}
+      Síguenos en{' '}
       <a href="https://instagram.com/bienestaryproductividad/">@bienestaryproductividad</a>
     </h2>
     <br />
