@@ -15,7 +15,7 @@ collections: # A list of collections the CMS should be able to edit
       preview: true
     files:
       - file: 'content/pages/contact.md'
-        label: 'Contact Page'
+        label: 'Contacto'
         name: 'contact-page'
         fields:
           - {
@@ -92,7 +92,7 @@ collections: # A list of collections the CMS should be able to edit
                 }
 
       - file: 'content/pages/blog.md'
-        label: 'Blog Page'
+        label: 'Blog'
         name: 'blog-page'
         fields:
           - {
@@ -131,7 +131,7 @@ collections: # A list of collections the CMS should be able to edit
                 }
 
       - file: 'content/pages/components.md'
-        label: 'Components Page'
+        label: 'Riesgo Psicosocial'
         name: 'components-page'
         fields:
           - {
@@ -192,7 +192,7 @@ collections: # A list of collections the CMS should be able to edit
                 }
 
       - file: 'content/pages/home.md'
-        label: 'Home Page'
+        label: 'Inicio'
         name: 'home-page'
         fields:
           - {
@@ -376,7 +376,7 @@ collections: # A list of collections the CMS should be able to edit
       preview: false
     files:
       - file: 'content/settings/global.yml'
-        label: 'Global Settings'
+        label: 'Configuración'
         name: 'global-settings'
         fields:
           - { label: Nombre de la Página, name: siteTitle, widget: string }
