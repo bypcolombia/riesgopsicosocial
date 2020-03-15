@@ -89,37 +89,36 @@ section2: >-
   * Focus Groups
 
   * Análisis de Puestos de Trabajo
-video: 'https://ucarecdn.com/fca1505b-ee5e-41ab-a469-d73ba771b692/'
-videoPoster: 'https://ucarecdn.com/2b02124e-38e7-40c0-8ed2-9f1b7dabd790/'
-videoTitle: >-
-  Metodología: Diagnóstico, Sistema de Vigilancia Epidemiológica (SVE) e
-  intervención en RPS
+Separador: 'https://ucarecdn.com/2d5d8077-9645-4374-b51a-c23598401ced/'
+Imagen Separador: 'https://ucarecdn.com/b52c2877-e2f0-450a-a35a-64bbd670bfcc/'
+videoTitle: 'Diagnóstico, Sistema de Vigilancia Epidemiológica (SVE) e intervención en RPS'
 accordion:
-  - description: >-
-      * Coordinación de  la actividad 
+  - Titulo: Objetivo del diagnóstico
+    descripción: >-
+      * Identificar los factores de riesgo psicosociales de tipo intra, extra
+      laboral y la percepción de la sintomatología de estrés en los
+      colaboradores de Clínica de Ojos. 
 
+      * Prevenir riesgos, potencializar los factores protectores e intervenir
+      los factores de riesgo
 
-      * Coordinación de la comunicación corporativa anunciando la actividad
-
-
-      * Toma de la información, con la respectiva sensibilización y
-      consentimiento informado
-    title: Diagnostico de Riesgos Psicosociales
-  - description: |-
-      * Análisis de datos y resultados 
-
-      * Entrega de resultados y recomendaciones 
-
-      * Certificación de custodia de la información
-    title: Elaboración del documento de Vigilancia Epidemiológica
-  - description: >-
-      * Ejecución de actividades programadas 
-
-
-
-      * Seguimiento a través de los indicadores contenidos en el documento de
-      vigilancia epidemiológica
-    title: Puesta en marcha del plan de intervención
+      * Dar cumplimiento a la Resolución 2646 de 2008, la Resolución 0312, de
+      marzo de 2019 y la Resolución 2404, del 22 de Julio de 2019.
+  - Titulo: Justificación
+    descripción: >-
+      La identificación y evaluación de la condiciones laborales, físicas y
+      psicológicas de los colaboradores de Clínica de Ojos, tanto a nivel intra,
+      como extra laboral, ayudarán a los directivos, a partir del conocimiento
+      de las percepciones de sus colaboradores en cuanto al riesgo psicosocial,
+      a potencializar los factores protectores y a intervenir los factores de
+      riesgo, para generarles mayor bienestar, calidad de vida y aumentar en
+      ellos la productividad, además, de dar cumplimiento a la normatividad
+      vigente respecto a los riesgos psicosociales, contenida en la Resolución
+      2646 de 2008 y Resolución 2404 del 22 de Julio de 2019, hacer seguimiento
+      a las riesgos psicosociales, como lo pide la Resolución 0312, de marzo de
+      2019.
+  - Titulo: Metodología
+    descripción: "El diagnóstico de Riesgo Psicosocial, es del tipo de investigación cuantitativa; se analizan los datos captados a través de los cuestionarios de la Batería de RPS en 6 fases:\r\n\n1. \rCoordinación de  la actividad \r\n2. Coordinación de la comunicación corporativa anunciando la actividad\r\n3. Toma de la información, con la respectiva sensibilización y consentimiento informado\r\n4. Análisis de datos y resultados \r\n5. Entrega de resultados y recomendaciones\r\n6. Certificación de custodia de la información"
 gallery:
   - alt: Amarilo
     image: 'https://ucarecdn.com/a7048184-bc4c-42ce-a159-112d31e1a57d/'
