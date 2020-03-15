@@ -90,7 +90,7 @@ section2: >-
 
   * Análisis de Puestos de Trabajo
 video: 'https://ucarecdn.com/fca1505b-ee5e-41ab-a469-d73ba771b692/'
-videoPoster: 'https://ucarecdn.com/705e7f76-aee3-4acb-a99b-04e4c5a92f3a/'
+videoPoster: 'https://ucarecdn.com/60806eda-df28-49c3-bba7-7a59028f2071/'
 videoTitle: >-
   Metodología: Diagnóstico, Sistema de Vigilancia Epidemiológica (SVE) e
   intervención en RPS
