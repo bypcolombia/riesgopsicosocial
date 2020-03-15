@@ -2,8 +2,7 @@
 template: HomePage
 slug: ''
 title: Bienestar y Productividad
-featuredImage: >-
-  https://ucarecdn.com/34dd5439-eef7-45c5-ad81-16471d78f525/-/crop/3000x1647/0,172/-/preview/
+featuredImage: 'https://ucarecdn.com/ba956271-55c1-4d46-8ad3-ad24e462f7e9/'
 subtitle: '## *Generando Bienestar*'
 meta:
   description: >-
