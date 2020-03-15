@@ -39,10 +39,12 @@
   }
   .PageHeader--Title {
     font-size: 3rem;
+    text-shadow: 3px 3px 2px #333;
     
   }
   .PageHeader--Subtitle {
      font-size: 1.3rem;
+     text-shadow: 3px 3px 2px #333;
     
   }
   

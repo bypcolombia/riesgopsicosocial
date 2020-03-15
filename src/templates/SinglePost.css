@@ -3,7 +3,7 @@
 }
 
 .SinglePost--BackButton {
-  color: white;
+  color: var(--primary);
   position: relative;
   display: flex;
   align-items: center;
@@ -71,8 +71,10 @@
   font-size: 1.2rem;
   font-weight: 600;
   text-decoration: none;
+  
 }
 
 .SinglePost--Pagination--Link.next {
   margin-left: auto;
+  
 }

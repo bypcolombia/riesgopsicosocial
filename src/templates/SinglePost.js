@@ -23,7 +23,7 @@ export const SinglePostTemplate = ({
     >
       <div className="container skinny">
         <Link className="SinglePost--BackButton" to="/blog/">
-          <ChevronLeft /> BACK
+          <ChevronLeft /> REGRESAR
         </Link>
         <div className="SinglePost--Content relative">
           <div className="SinglePost--Meta">
