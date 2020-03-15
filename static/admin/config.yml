@@ -212,7 +212,7 @@ collections: # A list of collections the CMS should be able to edit
             required: false
             fields:
               - { label: 'Title', name: 'title', widget: 'string' }
-              - { label: Content, name: content, widget: markdown }
+              - { label: 'Content', name: 'content', widget: 'markdown' }
           - label: 'Meta'
             required: false
             name: 'meta'
