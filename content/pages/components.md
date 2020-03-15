@@ -89,7 +89,7 @@ section2: >-
   * Focus Groups
 
   * Análisis de Puestos de Trabajo
-Separador: ''
+Separador: 'https://ucarecdn.com/2d5d8077-9645-4374-b51a-c23598401ced/'
 Imagen Separador: 'https://ucarecdn.com/b52c2877-e2f0-450a-a35a-64bbd670bfcc/'
 videoTitle: 'Diagnóstico, Sistema de Vigilancia Epidemiológica (SVE) e intervención en RPS'
 accordion:
@@ -118,28 +118,7 @@ accordion:
       a las riesgos psicosociales, como lo pide la Resolución 0312, de marzo de
       2019.
   - Titulo: Metodología
-    descripción: >-
-      El diagnóstico de Riesgo Psicosocial, es del tipo de investigación
-      cuantitativa; se analizan los datos captados a través de los cuestionarios
-      de la Batería de RPS en 6 fases:
-
-
-      1. 
-
-
-      Coordinación de  la actividad 
-
-
-      2. Coordinación de la comunicación corporativa anunciando la actividad
-
-      3. Toma de la información, con la respectiva sensibilización y
-      consentimiento informado
-
-      4. Análisis de datos y resultados 
-
-      5. Entrega de resultados y recomendaciones
-
-      6. Certificación de custodia de la información
+    descripción: "El diagnóstico de Riesgo Psicosocial, es del tipo de investigación cuantitativa; se analizan los datos captados a través de los cuestionarios de la Batería de RPS en 6 fases:\r\n\n1. \rCoordinación de  la actividad \r\n2. Coordinación de la comunicación corporativa anunciando la actividad\r\n3. Toma de la información, con la respectiva sensibilización y consentimiento informado\r\n4. Análisis de datos y resultados \r\n5. Entrega de resultados y recomendaciones\r\n6. Certificación de custodia de la información"
 gallery:
   - alt: Amarilo
     image: 'https://ucarecdn.com/a7048184-bc4c-42ce-a159-112d31e1a57d/'
