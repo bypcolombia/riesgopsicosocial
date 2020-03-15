@@ -3,7 +3,7 @@ template: ContactPage
 slug: contact
 title: Contacto
 featuredImage: 'https://ucarecdn.com/99a3b301-6bc3-48ad-bd56-e4aaeb854e43/'
-subtitle: '### Contáctanos para tener el gusto de servirte'
+subtitle: '### _Contáctanos para tener el gusto de servirte_'
 address: 'Cl. 138 # 10 A - 39, Bogotá, Colombia'
 phone: 'Mobile: 301 5103946  Teléfono:  (1) 5276449'
 email: servicio@bienestaryproductividad.com.co
