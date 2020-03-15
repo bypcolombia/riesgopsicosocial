@@ -98,18 +98,24 @@ accordion:
   - description: >-
       * Coordinación de  la actividad 
 
+
       * Coordinación de la comunicación corporativa anunciando la actividad
+
 
       * Toma de la información, con la respectiva sensibilización y
       consentimiento informado
     title: Diagnostico de Riesgos Psicosociales
-  - description: |
+  - description: |-
       * Análisis de datos y resultados 
+
       * Entrega de resultados y recomendaciones 
+
       * Certificación de custodia de la información
     title: Elaboración del documento de Vigilancia Epidemiológica
   - description: >-
       * Ejecución de actividades programadas 
+
+
 
       * Seguimiento a través de los indicadores contenidos en el documento de
       vigilancia epidemiológica
