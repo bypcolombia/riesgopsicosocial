@@ -3,7 +3,7 @@ template: ComponentsPage
 slug: components
 title: Riesgo Psicosocial
 featuredImage: 'https://ucarecdn.com/ae5ebf57-84fb-4e32-a891-e0a2f3cc2af2/'
-subtitle: '### PREVENCIÓN, DIAGNÓSTICO E INTERVENCIÓN'
+subtitle: '### _Prevención, Diagnóstico e Intervención_'
 section1: >-
   ## Qué son los Riesgos Psicosociales (RPS)
 
