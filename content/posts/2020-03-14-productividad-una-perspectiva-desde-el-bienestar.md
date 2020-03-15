@@ -2,7 +2,7 @@
 template: SinglePost
 title: 'PRODUCTIVIDAD: UNA PERSPECTIVA DESDE EL BIENESTAR'
 status: Published
-date: 2020-03-11T05:00:00.000Z
+date: 2017-02-11T05:00:00.000Z
 featuredImage: 'https://ucarecdn.com/58ff968b-6d7e-46d1-95f5-999fe43e976f/'
 excerpt: 'Autora: Ingrith Véles Ramos'
 categories:
