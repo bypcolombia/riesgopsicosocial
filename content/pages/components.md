@@ -95,15 +95,43 @@ videoTitle: >-
   Metodología: Diagnóstico, Sistema de Vigilancia Epidemiológica (SVE) e
   intervención en RPS
 accordion:
-  - body: >-
-     
+  - description: |-
+      ## Hola
+
+      Este es una prueba de texto
+
+
+
+      1. 2
+
+      hhhhhhh
     title: Diagnostico de Riesgos Psicosociales
-  - body: >-
-     
+  - description: |-
+      Peuuuuu
+
+
+
+
+
+
+
+      ## ddddddddddddddddddddddddddd
     title: Elaboración del documento de Vigilancia Epidemiológica
-  - body: >-
-     
- 
+  - description: |-
+      ## **ddddd**
+
+
+
+
+
+      1. dddass
+
+
+
+
+
+      2. pectttttttttt
+    title: Tercero
 gallery:
   - alt: Amarilo
     image: 'https://ucarecdn.com/a7048184-bc4c-42ce-a159-112d31e1a57d/'
