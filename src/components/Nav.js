@@ -51,9 +51,11 @@ export class Navigation extends Component {
           <div className="Nav--Links">
             <NavLink to="/">Inicio</NavLink>
             <NavLink to="/components/">Riesgo Psicosocial</NavLink>
-            <NavLink to="/default/">Sevicios</NavLink>
+            <NavLink to="/sg-stt/">SG-STT</NavLink>
+            <NavLink to="servicios/">Otros Servicios</NavLink>
             <NavLink to="/blog/">Blog</NavLink>
             <NavLink to="/contact/">Contacto</NavLink>
+           
           </div>
           <button
             className="Button-blank Nav--MenuButton"
