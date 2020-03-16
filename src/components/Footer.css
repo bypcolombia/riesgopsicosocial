@@ -8,3 +8,27 @@
   color: black;
   text-decoration: none;
 }
+.img-social{
+  height: 5.6rem;
+  width: 5.6rem;
+  position: relative;
+  display: inline-block;
+  /* background: lightblue; */
+  transition: 0.3s ease all;
+  margin: 2px 2rem; 
+  
+ }
+
+.img-social:hover {
+  background:#e1e2e1;
+}
+
+.img-social:hover .SVGIcon--icon {
+  background: purple;
+}
+.social-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
