@@ -95,7 +95,7 @@ videoTitle: >-
   Metodología: Diagnóstico, Sistema de Vigilancia Epidemiológica (SVE) e
   intervención en RPS
 accordion:
-  - description: |-
+  - body: |-
       ## Hola
 
       Este es una prueba de texto
@@ -106,7 +106,7 @@ accordion:
 
       hhhhhhh
     title: Diagnostico de Riesgos Psicosociales
-  - description: |-
+  - body: |-
       Peuuuuu
 
 
@@ -117,7 +117,7 @@ accordion:
 
       ## ddddddddddddddddddddddddddd
     title: Elaboración del documento de Vigilancia Epidemiológica
-  - description: |-
+  - body: |-
       ## **ddddd**
 
 
