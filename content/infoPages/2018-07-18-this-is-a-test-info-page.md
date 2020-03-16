@@ -1,6 +1,6 @@
 ---
 template: DefaultPage
-slug: Servicios
+slug: sg-stt
 title: Sistema de Gestión para la Salud y Seguridad en el Trabajo (SG-SST)
 featuredImage: 'https://ucarecdn.com/4793dd00-6853-4133-9624-4f55140502c9/'
 meta:
