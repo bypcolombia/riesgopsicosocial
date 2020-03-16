@@ -2,6 +2,6 @@
 template: DefaultPage
 slug: Prueba
 title: Prueba media
-featuredImage: /images/productivdad-multitask.png
+featuredImage: 'https://upbeat-euler-fcef72.netlify.com/'
 ---
 Prueba de Media
