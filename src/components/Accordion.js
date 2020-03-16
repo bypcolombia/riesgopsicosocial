@@ -38,7 +38,7 @@ export default class Accordion extends React.Component {
                 <ChevronDown />
               </h2>
               <div className={'description'}>
-                {item.body} <br />
+                {item.description} <br />
                 {item.link && (
                   <div href={item.link} className="button">
                     {item.linkTitle}
