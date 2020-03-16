@@ -56,7 +56,6 @@
   .Poster--videoTitle {
     font-size: 2rem;
     font-weight: bold;
-    width: 90%;
-    
+    text-align: center;
   }
 }
