@@ -95,15 +95,33 @@ videoTitle: >-
   Metodología: Diagnóstico, Sistema de Vigilancia Epidemiológica (SVE) e
   intervención en RPS
 accordion:
-  - body: >-
-     
+  - description: >-
+      1. Coordinación de  la actividad
+
+
+      2. Coordinación de la comunicación corporativa anunciando la actividad
+
+
+      3. Toma de la información, con la respectiva sensibilización y
+      consentimiento informado
     title: Diagnostico de Riesgos Psicosociales
-  - body: >-
-     
+  - description: |-
+      1. Análisis de datos y resultados 
+
+
+      2. Entrega de resultados y recomendaciones
+
+
+      3. Certificación de custodia de la información
     title: Elaboración del documento de Vigilancia Epidemiológica
-  - body: >-
-     
- 
+  - description: >-
+      1. Ejecución de actividades programadas
+
+
+
+      2. Seguimiento a través de los indicadores contenidos en el documento de
+      vigilancia epidemiológica
+    title: Puesta en marcha del plan de intervención
 gallery:
   - alt: Amarilo
     image: 'https://ucarecdn.com/a7048184-bc4c-42ce-a159-112d31e1a57d/'
