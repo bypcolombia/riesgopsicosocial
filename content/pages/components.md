@@ -112,8 +112,8 @@ accordion:
       los indicadores contenidos en el documento de vigilancia epidemiológica
     title: Puesta en marcha del plan de intervención
 gallery:
-  - alt: Amarilo
-    image: 'https://ucarecdn.com/a7048184-bc4c-42ce-a159-112d31e1a57d/'
+  - alt: Calypso del Caribe
+    image: 'https://ucarecdn.com/cbe44ea8-d583-4c2f-89b3-5eaf6ba451df/'
     title: ''
   - alt: coopcarvajal
     image: 'https://ucarecdn.com/cb1da592-158f-4e90-b637-c6c91bc9bce0/'
