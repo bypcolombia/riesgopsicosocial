@@ -20,6 +20,7 @@
 .Gallery--Item {
   position: relative;
   display: flex;
+  min-width: 240px;
   flex-direction: column;
    width: calc(100% / 3 - 5rem); 
   margin: 5px;
@@ -47,16 +48,28 @@
   text-align: center;
   padding: 1rem 0;
 }
+.Gallery--Item img {
+  position: relative;
+  object-fit: cover; 
+  object-position: center;
+   transform: translate(-50%, -50%);
+  left: 50%;
+  top: 50%;
+ max-width: 300px;
 
+}
 @supports (object-fit: cover) {
+  
+}
+@media screen and (max-width: 1120px) {
   .Gallery--Item img {
     position: relative;
-    /* object-fit: cover; */
+    object-fit: cover; 
     object-position: center;
-    /* height: 100%; */
-    transform: translate(-50%, -50%);
+     transform: translate(-50%, -50%);
     left: 50%;
     top: 50%;
    max-width: 300px;
+   width: 200px
   }
 }

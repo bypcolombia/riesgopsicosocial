@@ -174,7 +174,7 @@ blockquote {
 @media (max-width: 600px) {
   .section {
     width: 100%;
-    padding: 5rem 0;
+    padding: 2rem 0;
   }
   .section.thick {
     padding: 7rem 0;

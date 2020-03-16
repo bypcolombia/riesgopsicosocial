@@ -52,3 +52,11 @@
   color: white;
   text-shadow: 5px 5px 3px #333;
 }
+@media screen and (max-width: 750px) {
+  .Poster--videoTitle {
+    font-size: 2rem;
+    font-weight: bold;
+    width: 90%;
+    
+  }
+}
