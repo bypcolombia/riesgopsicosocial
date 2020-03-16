@@ -100,7 +100,7 @@ accordion:
 
       Este es una prueba de texto
 
-
+      hhhhhhhhhhhh
 
       1. 2
 
@@ -120,16 +120,7 @@ accordion:
   - body: |-
       ## **ddddd**
 
-
-
-
-
       1. dddass
-
-
-
-
-
       2. pectttttttttt
     title: Tercero
 gallery:
