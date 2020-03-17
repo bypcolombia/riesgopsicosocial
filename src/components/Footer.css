@@ -9,8 +9,8 @@
   text-decoration: none;
 }
 .img-social{
-  height: 5.2rem;
-  width: 5.2rem;
+  height: 4.2rem;
+  width: 4.2rem;
   position: relative;
   display: inline-block;
   /* background: lightblue; */
@@ -20,8 +20,8 @@
  }
 
 .img-social:hover {
-  height: 5.6rem;
-  width: 5.6rem;
+  height: 4.7rem;
+  width: 4.7rem;
 }
 
 .img-social:hover .SVGIcon--icon {
