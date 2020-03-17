@@ -22,11 +22,12 @@ Poseemos una alta Orientación de Servicio al Cliente externo e interno; contamo
 
 ## Por qué elegirnos
 
-Generamos y ejecutamos proyectos personalizados dependiendo de las características y necesidades de su organización, así como soluciones practicas y efectivas para los Directivos y departamentos de Gestión Humana a quienes acompañamos y asesoramos.
+Generamos y ejecutamos proyectos personalizados dependiendo de las características y necesidades de su organización, así como soluciones practicas y efectivas para los Directivos y Departamentos de Gestión Humana a quienes acompañamos y asesoramos.
 
-Estamos respaldados por una red de profesionales especializados y experimentados en sus áreas en las principales ciudades del país, que además, cuentan con licencias vigentes en salud y seguridad en el trabajo.  
-Estamos respaldados no solo por el sello que nos acredita como entidad firmante del Pacto por el Teletrabajo, sino que también contamos con licencia en Seguridad y Salud en el Trabajo.
+Estamos respaldados por una red de profesionales especializados y experimentados en sus áreas, en las principales ciudades del país, que además, cuentan con licencias vigentes en salud y seguridad en el trabajo.
+
+Contamos con licencia en Seguridad y Salud en el Trabajo como organización y el sello que nos acredita como entidad firmante del Pacto por el Teletrabajo.
 
 ## Historia
 
-Bienestar y Productividad se creó en el año 2014, por la doctora **[Ingrith Vélez Ramos](https://www.linkedin.com/in/ingrith-v%C3%A9lez-ramos-87466669/)**, quien puso su experiencia en Gestión del Riesgo Psicosocial, Gestión Humana y Salud y Seguridad en el Trabajo, al servicio de la organización; con el objetivo de mejorar el Bienestar, la Calidad de Vida y la Productividad de los trabajadores y dar solución a la necesidad de diagnosticar, gestionar e intervenir el Riesgo Psicosocial, lo cual es un requisito del Ministerio del Trabajo de Colombia, expuesto en la Resolución 2646 de 2008. Desde sus inicios, contó con una alianza estratégica con la empresa Europea**[People-Vox](https://www.people-vox.com/presentation-de-people-vox/)**, quienes son expertos en encuestas y en la Gestión de la Satisfacción.
+Bienestar y Productividad se creó en el año 2014, por la doctora [Ingrith Vélez](https://www.linkedin.com/in/ingrithv%C3%A9lezramos/), quien puso su experiencia en Gestión del Riesgo Psicosocial, Gestión Humana y Salud y Seguridad en el Trabajo, al servicio de la organización; con el objetivo de mejorar el Bienestar, la Calidad de Vida y la Productividad de los trabajadores y dar solución a la necesidad de diagnosticar, gestionar e intervenir el Riesgo Psicosocial, lo cual es un requisito del Ministerio del Trabajo de Colombia, expuesto en la Resolución 2646 de 2008. En sus inicios, contó con una alianza estratégica con la empresa Europea **[People-Vox](https://www.people-vox.com/presentation-de-people-vox/)**, expertos en encuestas y en la Gestión de la Satisfacción.
