@@ -134,6 +134,7 @@ collections: # A list of collections the CMS should be able to edit
       - file: 'content/pages/components.md'
         label: 'Riesgo Psicosocial'
         name: 'components-page'
+        create: true
         fields:
           - {
               label: Template,
