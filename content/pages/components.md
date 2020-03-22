@@ -94,17 +94,7 @@ videoPoster: 'https://ucarecdn.com/2b02124e-38e7-40c0-8ed2-9f1b7dabd790/'
 videoTitle: >-
   Metodología: Diagnóstico, Sistema de Vigilancia Epidemiológica (SVE) e
   intervención en RPS
-accordion:
-  - body: |-
-      **HOLA**
-
-      sON DOS
-
-      1. hOLA
-      2. hOLA
-
-      # SEMANA
-    title: Diagnostico de Riesgos Psicosociales
+accordion: []
 gallery:
   - alt: Calypso del Caribe
     image: 'https://ucarecdn.com/cbe44ea8-d583-4c2f-89b3-5eaf6ba451df/'
