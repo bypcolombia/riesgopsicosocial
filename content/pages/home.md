@@ -5,9 +5,12 @@ title: Bienestar y Productividad
 featuredImage: 'https://ucarecdn.com/ba956271-55c1-4d46-8ad3-ad24e462f7e9/'
 subtitle: '### _Generando Bienestar_'
 gallery:
-  - alt: Despegar
-    image-home: 'https://ucarecdn.com/04783801-eb6e-418b-8e52-d362ef9af2cb/'
-    title: Despegar
+  - alt: Coopsanitas
+    image: 'https://ucarecdn.com/8bf347c8-5762-4b96-b04d-dc71877592c0/'
+    title: ''
+  - alt: Puebaras
+    image: 'https://ucarecdn.com/beb56443-01bc-4dc0-af7c-3f36cd146ce6/'
+    title: pruebadas
 meta:
   description: >-
     Expertos en Riesgo Psicosocial en Colombía. Líderes en Sistema de Seguridad
