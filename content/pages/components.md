@@ -95,7 +95,7 @@ videoTitle: >-
   Metodología: Diagnóstico, Sistema de Vigilancia Epidemiológica (SVE) e
   intervención en RPS
 accordion:
- - body: >-
+ - description: >-
       Se realiza el diagnóstico a través de la Batería de instrumentos para la
       evaluación de factores de riesgo psicosocial dispuesta por el Ministerio
       de Trabajo 
