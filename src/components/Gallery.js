@@ -57,7 +57,7 @@ export default class Gallery extends Component {
         }
       )
 
-    componentDidCatch() {
+    componentDidMount() {
     const { images } = this.props,
       maxCount = images.length
     let loopCount = 1
