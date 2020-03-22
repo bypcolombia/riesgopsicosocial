@@ -216,7 +216,7 @@ collections: # A list of collections the CMS should be able to edit
               - { label: 'Titlulo', name: 'title', widget: 'string' }
               - { label: 'Contenido', name: 'content', widget: 'markdown' }
               - label: 'Galería'
-            name: 'gallery'
+            name: 'gallery2'
             widget: 'list'
             fields:
               - { name: image, label: Imagen, widget: image,
