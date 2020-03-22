@@ -219,7 +219,7 @@ collections: # A list of collections the CMS should be able to edit
             name: 'gallery'
             widget: 'list'
             fields:
-              - { name: image, label: ImagenHome, widget: image'}
+              - { name: image, label: ImagenHome, widget: image}
               - { name: alt, label: Nombre para SEO2, widget: string, required: false }
               - { name: title, label: Titlulo2, widget: string, required: false }
           - label: 'Meta'
