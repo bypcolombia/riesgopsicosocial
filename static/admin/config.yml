@@ -219,7 +219,7 @@ collections: # A list of collections the CMS should be able to edit
             name: 'gallery2'
             widget: 'list'
             fields:
-              - { name: image, label: Imagen, widget: image,
+              - { name: image-home, label: Imagen, widget: image,
             
              defaultOperations: '/resize/300x/'
               
