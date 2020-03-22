@@ -32,18 +32,17 @@ export default class Accordion extends React.Component {
               className={`Accordion--item `}
               key={`accordion-item-${_kebabCase(item.title) + '-' + index}`}
               onClick={this.handleClick}
-            > <div href={item.link} className="button">
-            {item.linkTitle}
-            <h2 className="flex">
+            >
+              <h2 className="flex">
                 <span>{item.title}</span>
                 <ChevronDown />
               </h2>
-          </div>
-              
               <div className={'description'}>
                 {item.description} <br />
                 {item.link && (
-                 
+                  <div href={item.link} className="button">
+                    {item.linkTitle}
+                  </div>
                 )}
               </div>
             </div>
