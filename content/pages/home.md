@@ -4,7 +4,10 @@ slug: ''
 title: Bienestar y Productividad
 featuredImage: 'https://ucarecdn.com/ba956271-55c1-4d46-8ad3-ad24e462f7e9/'
 subtitle: '### _Generando Bienestar_'
-
+gallery:
+  - alt: Despegar
+    image-home: 'https://ucarecdn.com/04783801-eb6e-418b-8e52-d362ef9af2cb/'
+    title: Despegar
 meta:
   description: >-
     Expertos en Riesgo Psicosocial en Colombía. Líderes en Sistema de Seguridad
