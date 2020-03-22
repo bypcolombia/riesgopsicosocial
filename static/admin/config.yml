@@ -166,8 +166,8 @@ collections: # A list of collections the CMS should be able to edit
              defaultOperations: '/resize/300x/'
               
                 }
-              - { name: alt, label: Nombre para SEO, widget: string }
-              - { name: title, label: Titlulo, widget: string, required: false }
+              - { name: alt, label: Nombre para SEO2, widget: string }
+              - { name: title, label: Titlulo2, widget: string, required: false }
           - label: 'Meta'
             required: false
             name: 'meta'
@@ -224,6 +224,8 @@ collections: # A list of collections the CMS should be able to edit
              defaultOperations: '/resize/300x/'
               
                 }
+                    - { name: alt, label: Nombre para SEO, widget: string }
+              - { name: title, label: Titlulo, widget: string, required: false }
           - label: 'Meta'
             required: false
             name: 'meta'
