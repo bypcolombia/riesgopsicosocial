@@ -7,7 +7,7 @@ import Layout from '../components/Layout'
 import Gallery from '../components/Gallery'
 
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, body, gallery2 }) => (
+export const HomePageTemplate = ({ title, subtitle, featuredImage, body, gallery }) => (
   <main className="Home">
     <PageHeader
       large
@@ -24,7 +24,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, gallery
     <section className="section">
     <div className="container">
       <h2>Nuestros Clientes</h2>
-      <Gallery images={gallery2} />
+      <Gallery images={gallery} />
     </div>
   </section>
   </main>
