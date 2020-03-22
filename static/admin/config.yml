@@ -220,7 +220,7 @@ collections: # A list of collections the CMS should be able to edit
             required: false
             fields:
               - { label: 'Titlulo', name: 'title', widget: 'string' }
-              - { label: 'Contenido', name: 'content', widget: 'markdown' }
+              - { label: 'Contenido', name: 'content', widget: 'text' }
           - label: 'Galería2'
             name: 'gallery'
             widget: 'list'

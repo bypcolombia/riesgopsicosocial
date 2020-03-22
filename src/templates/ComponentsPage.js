@@ -53,7 +53,7 @@ export const ComponentsPageTemplate = ({
     </section>
 
     
-    <section className="section">
+    <section className="section" style={{display:"none"}}>
       <div className="container">
         <h2>Nuestros Clientes</h2>
         <Gallery images={gallery} />
