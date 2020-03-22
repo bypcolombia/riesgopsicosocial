@@ -95,7 +95,7 @@ videoTitle: >-
   Metodología: Diagnóstico, Sistema de Vigilancia Epidemiológica (SVE) e
   intervención en RPS
 accordion:
-  - description: |-
+  - body: |-
       **HOLA**
 
       sON DOS
