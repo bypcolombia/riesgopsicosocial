@@ -215,11 +215,11 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - { label: 'Titlulo', name: 'title', widget: 'string' }
               - { label: 'Contenido', name: 'content', widget: 'markdown' }
-              - label: 'Galería'
+          - label: 'Galería2'
             name: 'gallery2'
             widget: 'list'
             fields:
-              - { name: image-home, label: Imagen, widget: image,
+              - { name: image-home, label: ImagenHome, widget: image,
             
              defaultOperations: '/resize/300x/'
               
