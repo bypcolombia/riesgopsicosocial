@@ -220,7 +220,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: 'list'
             fields:
               - { name: image-home, label: ImagenHome, widget: image, defaultOperations: '/resize/300x/'}
-              - { name: alt, label: Nombre para SEO2, widget: string,  required: false }
+              - { name: alt, label: Nombre para SEO2, widget: string, required: false }
               - { name: title, label: Titlulo2, widget: string, required: false }
           - label: 'Meta'
             required: false
