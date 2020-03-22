@@ -162,7 +162,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: 'list'
             fields:
               - { name: title, label: Titulo, widget: string, default: '' }
-              - { name: description, label: descripción, widget: markdown }
+              - { name: body, label: descripción, widget: markdown }
           - label: 'Galería'
             name: 'gallery'
             widget: 'list'
