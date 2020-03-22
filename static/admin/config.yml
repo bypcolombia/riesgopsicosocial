@@ -6,7 +6,13 @@ backend:
 media_library:
   name: uploadcare
   config:
-    publicKey: 64dbaf416d5308fd9da2
+    publicKey: 0ce013dc7f79b4a3068c
+    multiple: false
+    tabs: 'file camera url facebook gdrive'
+    effects: 'crop,rotate,enhance,grayscale'
+    imageShrink: '2000x2000'
+    previewStep: true
+    clearable: true
 # media_folder: "/images"
 collections: # A list of collections the CMS should be able to edit
   - name: 'pages'
