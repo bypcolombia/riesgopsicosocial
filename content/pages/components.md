@@ -94,23 +94,50 @@ videoPoster: 'https://ucarecdn.com/2b02124e-38e7-40c0-8ed2-9f1b7dabd790/'
 videoTitle: >-
   Metodología: Diagnóstico, Sistema de Vigilancia Epidemiológica (SVE) e
   intervención en RPS
-accordion:
-  - description: >-
-      Se realiza el diagnóstico a través de la Batería de instrumentos para la
-      evaluación de factores de riesgo psicosocial dispuesta por el Ministerio
-      de Trabajo 
-    title: Diagnostico de Riesgos Psicosociales
-  - description: >
-      Se realiza el análisis de datos y resultados los cuales son entregados al
-      cliente con recomendaciones. Y se garantiza la custodia de la
-      información. 
-    title: Elaboración del documento de Vigilancia Epidemiológica
-  - description: >-
-      Se brinda un plan de intervención y se ejecutan las  actividades
-      programadas con el fin de potencializar los factores protectores y
-      gestionar los riesgos encontrados. Y se hace un seguimiento a través de
-      los indicadores contenidos en el documento de vigilancia epidemiológica
-    title: Puesta en marcha del plan de intervención
+section3: >-
+  ## Quién puede hacer el Diagnóstico de Riesgo Psicosocial
+
+
+  ​​Debe ser realizado por PSICÓLOGOS - ESPECIALISTAS, CON LICENCIA VIGENTE EN
+  SALUD Y SEGURIDAD EN EL TRABAJO (SST), preferiblemente RESPALDADOS por
+  ORGANIZACIONES QUE CUENTEN CON LICENCIA VIGENTE EN SST, como es el caso de
+  Bienestar y Productividad. 
+
+
+  ## Cuáles son los cuestionarios para Diagnosticar el Riesgo Psicosocial
+
+
+  En Colombia, según la Resolución 2646 de 2008 y la Resolución 2404 de 2019, el
+  diagnóstico de Riesgo Psicosocial, debe realizarse con instrumentos validados
+  en el país, como la Batería de Riesgo Psicosocial de la Universidad Javeriana
+  y el Ministerio de Trabajo de Colombia, la cual cuenta con los cuestionarios: 
+
+
+  * Ficha de datos generales
+
+  * Cuestionario Intra laboral forma A: dirigido al grupo ocupacional con 
+  cargos directivo o de jefatura y a nivel académico a profesionales, tecnólogos
+  y técnicos
+
+  * Cuestionario Intra laboral forma B: dirigido al grupo ocupacional con cargos
+  como auxiliares u operativos y a nivel académico bachilleres o quienes tengan
+  un grado de escolaridad menor al bachillerato
+
+  * Cuestionario Extra laboral
+
+  * Cuestionario de estrés 
+
+
+  La batería también tiene a disposición, guías, tales como:
+
+
+  * Entrevistas
+
+  * Focus Groups
+
+  * Análisis de Puestos de Trabajo
+
+  
 gallery:
   - alt: Calypso del Caribe
     image: 'https://ucarecdn.com/cbe44ea8-d583-4c2f-89b3-5eaf6ba451df/'
