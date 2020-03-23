@@ -94,6 +94,7 @@ videoPoster: 'https://ucarecdn.com/2b02124e-38e7-40c0-8ed2-9f1b7dabd790/'
 videoTitle: >-
   Metodología: Diagnóstico, Sistema de Vigilancia Epidemiológica (SVE) e
   intervención en RPS
+<<<<<<< HEAD
 section3: >-
   ## Quién puede hacer el Diagnóstico de Riesgo Psicosocial
 
@@ -138,6 +139,27 @@ section3: >-
   * Análisis de Puestos de Trabajo
 
   
+=======
+accordion:
+  - description: >-
+      ## HOLA
+
+
+      * Ficha de datos generales
+
+      * Cuestionario Intra laboral forma A: dirigido al grupo ocupacional con 
+      cargos directivo o de jefatura y a nivel académico a profesionales,
+      tecnólogos y técnicos
+
+      * Cuestionario Intra laboral forma B: dirigido al grupo ocupacional con
+      cargos como auxiliares u operativos y a nivel académico bachilleres o
+      quienes tengan un grado de escolaridad menor al bachillerato
+
+      * Cuestionario Extra laboral
+
+      * Cuestionario de estrés
+    title: Hola eSTA ES UNA PRUEBA
+>>>>>>> 35e2f3311e1565a74cea046b8cf008849bb455bf
 gallery:
   - alt: Calypso del Caribe
     image: 'https://ucarecdn.com/cbe44ea8-d583-4c2f-89b3-5eaf6ba451df/'
@@ -200,3 +222,4 @@ meta:
   description: 'Riesgo Psicosocial en Colombia, Envaluación de Riesgo psicosocial'
   title: Riesgo Psicosocial
 ---
+
