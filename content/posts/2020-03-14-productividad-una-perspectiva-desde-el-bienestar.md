@@ -2,7 +2,7 @@
 template: SinglePost
 title: 'PRODUCTIVIDAD: UNA PERSPECTIVA DESDE EL BIENESTAR'
 status: Published
-date: 2017-03-11T05:00:00.000Z
+date: 03-11-2017
 featuredImage: 'https://ucarecdn.com/58ff968b-6d7e-46d1-95f5-999fe43e976f/'
 excerpt: 'Autora: Ingrith Véles Ramos'
 categories:
@@ -30,16 +30,22 @@ Por otra parte, es importante tener un adecuado manejo de nuestras finanzas pers
 
 También se requiere el aprendizaje y entrenamiento en hábitos tales como administrar efectivamente el tiempo, hacer uso de las listas de tareas y empaquetarlas en procesos; tener una actitud de servicio; trabajar constantemente la inteligencia emocional; la comunicación asertiva; el solucionar problemas y tener claro que la vida en sí mima está llena de situaciones para resolver; el trabajar en equipo; el estar en modo de aprendizaje constante; el delegar y recibir apoyo; el disfrutar de un hobbie ya sea que te guste la música, el baile, caminar, aprender de los animales, lo que sea que les guste; adaptarse a los cambios, tal como lo decía Darwin; tener estilos de vida saludables; aprender y practicar la inteligencia financiera; prevenir, controlar y mitigar riesgos y sobre todo crear tu propia definición de éxito.
 
-En conclusión, estos 3 años de Bienestar y Productividad, mi mayor aprendizaje ha sido tener claridad sobre lo que es importante; Productividad es en mi concepto, vivir en un mejor planeta ambiental, comportamental y espiritualmente, tanto para nuestros hijos y para los que han decidido no tenerlos, dejar un mejor planeta para las generaciones futuras, reciclar, reducir y ojalá algún día eliminar el uso de energías generadas a partir de fósiles; buscar la manera de usar energías renovables, caminar más; aprovechar la tecnología y sus bondades efectivamente; usar menos papel y menos plástico, en esto nuevamente debo mencionar, que espero que el Ministerio del Trabajo se ponga las pilas en actualizar la encuesta de riesgos psicosociales a nivel tecnológico; gastar menos; evaluar nuestra definición de éxito y redefinir el valor del dinero en nuestras vidas; estar dispuestos a cambiar el curso, hacia una vida mas tranquila, cambiar la idea de que estar estresados y sin tiempo para nosotros mismos y nuestros seres queridos, es ser exitosos profesionalmente; dar más de lo que sabemos; compartir el conocimiento e involucrarnos de verdad en hacer de nuestro mundo un lugar mejor; esto es lo que para mí concepto, es ser realmente productivos.
 
-Si desean conocer más sobre esta filosofía de trabajo y vida; por favor contáctame; recuerda que invertir en Bienestar y Productividad, es invertir Bien!!
+En conclusión, estos 3 años de Bienestar y Productividad, mi mayor aprendizaje ha sido tener claridad sobre lo que es importante; Productividad es en mi concepto, vivir en un mejor planeta ambiental, comportamental y espiritualmente, tanto para nuestros hijos y para los que han decidido no tenerlos, dejar un mejor planeta para las generaciones futuras, reciclar, reducir y ojalá algún día eliminar el uso de energías generadas a partir de fósiles; buscar la manera de usar energías renovables, caminar más; aprovechar la tecnología y sus bondades efectivamente; usar menos papel y menos plástico, en esto nuevamente debo mencionar, que espero que el Ministerio del Trabajo se ponga las pilas en actualizar la encuesta de riesgos psicosociales a nivel tecnológico; gastar menos; evaluar nuestra definición de éxito y redefinir el valor del dinero en nuestras vidas; estar dispuestos a cambiar el curso, hacia una vida mas tranquila, cambiar la idea de que estar estresados y sin tiempo para nosotros mismos y nuestros seres queridos, es ser exitosos profesionalmente; dar más de lo que sabemos; compartir el conocimiento e involucrarnos de verdad en hacer de nuestro mundo un lugar mejor; esto es lo que para mí concepto, es ser realmente productivos.
 
-Ingrith Vélez Ramos
 
-Especialista en Psicología Ocupacional y Organizacional
+Si desean conocer más sobre esta filosofía de trabajo y vida; por favor contáctame; recuerda que invertir en Bienestar y Productividad, es invertir Bien!!
 
-Directora de Bienestar y Productividad
 
-servicio@bienestaryproductividad.com.co
+Ingrith Vélez Ramos
+
+
+Especialista en Psicología Ocupacional y Organizacional
+
+
+Directora de Bienestar y Productividad
+
+
+servicio@bienestaryproductividad.com.co
 
 http://www.bienestaryproductividad.com.co

@@ -4,7 +4,7 @@ title: >-
   RESOLUCIÓN 2404 DEL 22 DE JULIO DE 2019, AVANCES Y RETOS EN LA GESTIÓN DEL
   RIESGO PSICOSOCIAL EN COLOMBIA!
 status: Published
-date: Aug 17th 19
+date: 17-09-2017
 featuredImage: 'https://ucarecdn.com/44cce7e0-afa7-4e81-96b0-36904ff1fa8d/'
 excerpt: >-
   El pasado mes de Julio, el Ministerio de Trabajo de Colombia, expuso la
@@ -19,9 +19,11 @@ El pasado mes de Julio, el Ministerio de Trabajo de Colombia, expuso la reciente
 
 Un gran avance de la 2404, es el tema de los protocolos de intervención en Riesgo Psicosocial, tema que se viene trabajando desde el 2015, cuando se expuso en la Universidad Javeriana y que ahora queda formalizado y actualizado; y es que los protocolos son un gran avance, ya que con ellos, podemos hacer intervención, de acuerdo a sectores económicos, dejando manifiesto, que desde el ejercer de la psicología organizacional, entendemos, que existen diferencias significativas entre sectores y actividades económicas y que el abordaje se dará conforme a estos lineamientos, que parten de dichas diferencias; lo cual finalmente es un beneficio para la población trabajadora, ya que de este modo, los especialistas, esperamos realizar intervenciones más eficaces y que generen valor social; es así como, ahora es claro, que las intervenciones se articulan para sectores económicos  tales como el administrativo, salud y asistencia social, público, defensa, transporte, educación, finanzas; trata el acoso laboral, Síndrome de Burnout, la Depresión, Estrés Post traumático y Estrés agudo.
 
-Respecto a la custodia de los cuestionarios, también hay avance, ya que hay una ruta sobre el manejo de esta; ahora es claro que, si es la Institución Prestadora de Salud (IPS) quien realiza el diagnóstico, serán ellos quienes custodiarán los cuestionarios, junto con la historia clínica ocupacional del trabajador; por otro lado, si las organizaciones cuentan con personal calificado, es decir, especialistas en psicología ocupacional y médicos con licencia para ejercer respecto a la salud y la seguridad en el trabajo, entonces, si cumplen con los requerimientos de la Resolución 2346 de 2007, para el manejo de las historias clínicas, podrán custodiar los cuestionarios diligenciados, de modo confidencial, nunca con la carpeta ocupacional que contiene la información laboral; y en el caso de especialistas y prestadoras del servicio de gestión de los riesgos psicosociales, también se nos da la responsabilidad de custodiar la información, considerando, los principios de la mencionada resolución, para tal efecto.
 
-Por otra parte, recibimos con alegría, que quede aclarado, un tema que afortunadamente veníamos orientando a nuestros clientes, y es respecto a la periodicidad de la realización de los diagnósticos de riesgo psicosocial, es así como en el artículo 3 dice…“debe realizarse de forma periódica, de acuerdo al nivel de riesgo”… si hay un nivel de riesgo bajo o medio …“como mínimo cada dos años”; si es alto, entonces sí … “de forma anual”…; lo anterior es un aliciente para las organizaciones, sobre todo para aquellas donde están realizando buenas prácticas y sus niveles de riesgo son bajos, ya que con esto sus esfuerzos y recursos, pueden orientarse al mantenimiento de las estrategias para disminuir y controlar riesgos, y efectuar diagnósticos que aporten la identificación de avances, de factores protectores y de los riesgos.
+Respecto a la custodia de los cuestionarios, también hay avance, ya que hay una ruta sobre el manejo de esta; ahora es claro que, si es la Institución Prestadora de Salud (IPS) quien realiza el diagnóstico, serán ellos quienes custodiarán los cuestionarios, junto con la historia clínica ocupacional del trabajador; por otro lado, si las organizaciones cuentan con personal calificado, es decir, especialistas en psicología ocupacional y médicos con licencia para ejercer respecto a la salud y la seguridad en el trabajo, entonces, si cumplen con los requerimientos de la Resolución 2346 de 2007, para el manejo de las historias clínicas, podrán custodiar los cuestionarios diligenciados, de modo confidencial, nunca con la carpeta ocupacional que contiene la información laboral; y en el caso de especialistas y prestadoras del servicio de gestión de los riesgos psicosociales, también se nos da la responsabilidad de custodiar la información, considerando, los principios de la mencionada resolución, para tal efecto.
+
+
+Por otra parte, recibimos con alegría, que quede aclarado, un tema que afortunadamente veníamos orientando a nuestros clientes, y es respecto a la periodicidad de la realización de los diagnósticos de riesgo psicosocial, es así como en el artículo 3 dice…“debe realizarse de forma periódica, de acuerdo al nivel de riesgo”… si hay un nivel de riesgo bajo o medio …“como mínimo cada dos años”; si es alto, entonces sí … “de forma anual”…; lo anterior es un aliciente para las organizaciones, sobre todo para aquellas donde están realizando buenas prácticas y sus niveles de riesgo son bajos, ya que con esto sus esfuerzos y recursos, pueden orientarse al mantenimiento de las estrategias para disminuir y controlar riesgos, y efectuar diagnósticos que aporten la identificación de avances, de factores protectores y de los riesgos.
 
 
 
@@ -63,9 +65,11 @@ En conclusión, la Resolución 2404, trae avances en materia psicosocial; el hec
 
 Desde Bienestar y Productividad seguiremos siempre atentos a los avances y disposiciones del Ministerio de Trabajo; esperamos contar pronto con el software propuesto en la Resolución 2404 y los criterios de seguridad de la información; seguimos trabajando en mejorar los procesos de intervención conforme a los protocolos; desarrollando tecnología para la mejorara del quehacer de los profesionales, las organizaciones y de la población trabajadora y dispuestos a servir para hacer un mejor país.
 
-Ingrith Vélez Ramos
 
-Directora Técnica y Administrativa 
+Ingrith Vélez Ramos
+
+
+Directora Técnica y Administrativa 
 
 
 

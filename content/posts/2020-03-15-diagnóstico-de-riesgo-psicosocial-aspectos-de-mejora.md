@@ -2,7 +2,7 @@
 template: SinglePost
 title: 'DIAGNÓSTICO DE RIESGO PSICOSOCIAL: ASPECTOS DE MEJORA'
 status: Published
-date: 2017-08-29T19:32:51.945Z
+date: 29-08-2017
 featuredImage: 'https://ucarecdn.com/bf16eb5b-08ab-4447-9c6c-19af95d4bbc0/'
 excerpt: 'Autora: Ingrith Velez Ramos'
 categories:
