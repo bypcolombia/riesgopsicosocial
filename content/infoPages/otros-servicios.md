@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: servicios
 title: Otros Servicios
-featuredImage: 'https://ucarecdn.com/3b084fc8-513f-4ce5-aaef-15de3bfc8fbd/'
+featuredImage: 'https://ucarecdn.com/68cf2b34-e1f8-4264-90a5-fc38a6d40d16/'
 ---
 ## Baile Terapia
 
