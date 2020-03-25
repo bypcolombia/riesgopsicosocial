@@ -2,7 +2,7 @@
 template: SinglePost
 title: 'MI PRIMERA VEZ RELAJADA UN LUNES!'
 status: Published
-date: 07-05-2018
+date: 2018-07-05T05:00:00.000Z
 featuredImage: 'https://ucarecdn.com/41b95108-09d3-4f53-ad47-790c17acfd34/'
 excerpt: 'Manejo del estrés y del tiempo libre. '
 categories:
