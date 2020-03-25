@@ -52,6 +52,7 @@ export class Navigation extends Component {
             <NavLink to="/">Inicio</NavLink>
             <NavLink to="/components/">Riesgo Psicosocial</NavLink>
             <NavLink to="/sg-stt/">SG-STT</NavLink>
+            <NavLink to="/baileterapia/">Baileterapia</NavLink>
             <NavLink to="servicios/">Otros Servicios</NavLink>
             <NavLink to="/blog/">Blog</NavLink>
             <NavLink to="/contact/">Contacto</NavLink>
