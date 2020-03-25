@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: sg-stt
 title: Sistema de Gestión para la Salud y Seguridad en el Trabajo (SG-SST)
-featuredImage: 'https://ucarecdn.com/4793dd00-6853-4133-9624-4f55140502c9/'
+featuredImage: 'https://ucarecdn.com/5b82d344-cf19-482b-82b3-fcd262ff8ce8/'
 meta:
   description: >-
     En qué consiste?
