@@ -2,7 +2,7 @@
 template: BlogIndex
 slug: blog
 title: Blog
-featuredImage: 'https://ucarecdn.com/09abbe00-38b5-4b7b-b0c9-9ee0cd16307f/'
+featuredImage: 'https://ucarecdn.com/f7f4f91c-51c1-4eb8-9338-e501eba2110a/'
 subtitle: '### _Bienestar y Productividad_'
 meta:
   description: >-
