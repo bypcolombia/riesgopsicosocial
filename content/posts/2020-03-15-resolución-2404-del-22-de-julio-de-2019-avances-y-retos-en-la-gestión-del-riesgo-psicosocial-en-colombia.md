@@ -7,7 +7,7 @@ status: Published
 date: 2017-09-17T05:00:00.000Z
 featuredImage: 'https://ucarecdn.com/44cce7e0-afa7-4e81-96b0-36904ff1fa8d/'
 excerpt: >-
-  El pasado mes de Julio, el Ministerio de Trabajo de Colombia, expuso la
+  El pasado mes, el Ministerio de Trabajo de Colombia, expuso la
   reciente Resolución en materia de Riesgo Psicosocial, la 2404, de Julio 22 de
   2019, en donde menciona la importancia de seguir trabajando en pro de la
   mejora de la Salud Mental de los trabajadores colombianos y da lineamientos
