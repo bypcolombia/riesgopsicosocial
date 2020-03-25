@@ -4,7 +4,7 @@ title: >-
   EL TELETRABAJO Y SU IMPORTANCIA EN LA PREVENCIÓN E INTERVENCIÓN DE LOS RIESGOS
   PSICOSOCIALES
 status: Published
-date: 26-09-2016
+date: 27-09-2016
 featuredImage: 'https://ucarecdn.com/4804483b-6a4b-4b8d-95fb-a6da132f47fd/'
 excerpt: >
   En este artículo se expone la importancia del Teletrabajo, en la prevención e
