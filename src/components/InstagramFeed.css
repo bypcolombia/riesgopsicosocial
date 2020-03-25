@@ -2,7 +2,26 @@
   display: flex;
   flex-wrap: wrap;
   background: white;
+ 
 }
+.InstagramFeed image{
+  display: flex;
+  flex-wrap: wrap;
+  background: white;
+ 
+}
+ 
+#gatsby-focus-wrapper > div > div.InstagramFeed > a:nth-child(1) > div,
+#gatsby-focus-wrapper > div > div.InstagramFeed > a:nth-child(2) > div,
+#gatsby-focus-wrapper > div > div.InstagramFeed > a:nth-child(3) > div,
+#gatsby-focus-wrapper > div > div.InstagramFeed > a:nth-child(4) > div,
+#gatsby-focus-wrapper > div > div.InstagramFeed > a:nth-child(5) > div,
+#gatsby-focus-wrapper > div > div.InstagramFeed > a:nth-child(6) > div,
+#gatsby-focus-wrapper > div > div.InstagramFeed > a:nth-child(7) > div,
+#gatsby-focus-wrapper > div > div.InstagramFeed > a:nth-child(8) > div
+ {
+  background-size: contain!important; 
+ }
 
 .InstagramFeed--EmptyPost {
   width: calc(100% / 8);
