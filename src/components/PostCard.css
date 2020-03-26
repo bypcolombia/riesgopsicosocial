@@ -23,6 +23,7 @@
 
 .PostCard--Title {
   margin: 0;
+  text-transform: uppercase;
 }
 
 .PostCard--Content {

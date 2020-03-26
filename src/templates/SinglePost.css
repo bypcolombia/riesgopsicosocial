@@ -47,7 +47,7 @@
 .SinglePost--Title {
   text-align: center;
   line-height: 1.2;
-  text-transform: capitalize;
+  text-transform: uppercase!important;
 }
 
 .SinglePost--InnerContent {
