@@ -2,7 +2,7 @@
 template: SinglePost
 title: Prueba fechas
 status: Published
-date: 03/03/2020
+date: '2020-03-04'
 excerpt: fecha
 categories:
   - category: Eventos
