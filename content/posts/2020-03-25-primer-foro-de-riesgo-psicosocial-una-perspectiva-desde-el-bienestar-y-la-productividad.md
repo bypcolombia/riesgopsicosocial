@@ -4,7 +4,7 @@ title: >-
   Primer foro de Riesgo Psicosocial: Una perspectiva desde el Bienestar y la
   Productividad
 status: Published
-date: 27-09-2018
+date: 'September 27, 2018 8:18 PM'
 featuredImage: 'https://ucarecdn.com/67b6efde-26ce-4521-bdd2-db5d192ff91b/'
 excerpt: >-
   El 26 de septiembre de 2018, se realizó en Bogotá el primer foro Riesgo
