@@ -293,7 +293,7 @@ collections: # A list of collections the CMS should be able to edit
         widget: 'select'
         options: ['Published', 'Featured', 'Draft']
         default: 'Published'
-      - { label:  Fecha / Orden, name: date, widget: datetime, default: '', dateFormat: "DD.MM.YYYY",  timeFormat: "HH:mm" }
+      - { label:  Fecha / Orden, name: date, widget: datetime, default: '', dateFormat: "DD.MM.YYYY",  timeFormat: "HH:mm", format: 'L', locale: 'ca' }
       # - {label: Date / Order, name: date, widget: date, default: '', format: 'MMM Do YY'}
       - {
           label: Imagen,
