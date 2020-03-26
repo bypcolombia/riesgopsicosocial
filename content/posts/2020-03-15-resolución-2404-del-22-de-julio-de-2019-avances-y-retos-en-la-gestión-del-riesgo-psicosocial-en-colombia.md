@@ -4,7 +4,7 @@ title: >-
   RESOLUCIÓN 2404 DEL 22 DE JULIO DE 2019, AVANCES Y RETOS EN LA GESTIÓN DEL
   RIESGO PSICOSOCIAL EN COLOMBIA!
 status: Published
-date: 2017-09-17T05:00:00.000Z
+date: 2017-09-17
 featuredImage: 'https://ucarecdn.com/44cce7e0-afa7-4e81-96b0-36904ff1fa8d/'
 excerpt: >-
   El pasado mes, el Ministerio de Trabajo de Colombia, expuso la
@@ -12,6 +12,8 @@ excerpt: >-
   2019, en donde menciona la importancia de seguir trabajando en pro de la
   mejora de la Salud Mental de los trabajadores colombianos y da lineamientos
   precisos sobre algunos temas en la gestión del riesgo psicosocial;
+categories:
+  - category: Blog
 ---
 
 El pasado mes de Julio, el Ministerio de Trabajo de Colombia, expuso la reciente Resolución en materia de Riesgo Psicosocial, la 2404, de Julio 22 de 2019, en donde menciona la importancia de seguir trabajando en pro de la mejora de la Salud Mental de los trabajadores colombianos y da lineamientos precisos sobre algunos temas en la gestión del riesgo psicosocial; tema que lleva 11 años de haber sido legislado con la Resolución 2646 de 2008, la cual era la referente en materia; pero que en el ejercicio, los diferentes actores en el país, nos dimos cuenta de la necesidad de ir mejorando, considerando reglas claras, por lo cual pedíamos “a gritos” que el Ministerio se pronunciara al respecto y legislara la ruta de acción, para continuar trabajando; considero que las solicitudes hechas por especialistas y empresas al Ministerio, así como la oportunidad de exponer experiencias y necesidades en el primer foro de Riesgo Psicosocial del año anterior, en donde se contó con la presencia del Ministerio de Trabajo, de las Administradoras de Riesgo Laboral (ARL’s), de empresas dedicadas a la Gestión de la Salud y Seguridad en el Trabajo y Riesgos Psicosociales, Universidades, especialistas en la materia y estudiantes de psicología; fue una gran oportunidad para dejar por sentado experiencias y necesidades, que se ven reflejadas en esta resolución.

@@ -4,11 +4,13 @@ title: >-
   REPORTE INDIVIDUAL EN EL DIAGNÓSTICO DE RIESGO PSICOSOCIAL: OTRA APUESTA
   INNOVADORA
 status: Published
-date: 'January 28, 2019'
+date: 2010-01-28
 featuredImage: 'https://ucarecdn.com/c9f63e6e-e186-4ea8-95b8-eba6c78e4de9/'
 excerpt: >-
   Reporte individual de la Batería de Riesgo Psicosocial. Una perspectiva
   innovadora
+categories:
+  - category: Blog
 ---
 Hacen ya 12 años de estar ejerciendo en el marco de la Psicología Organizacional y Ocupacional, buscando generar Bienestar, Productividad y Calidad de vida en cada empresa a la que ingreso; casi 8 años inmersa en la gestión de la Resolución 2646 del año 2008, la cual tendrá 11 años, el 17 de Julio de este 2019, de haber sido expuesta; y entre ir de la mano de ella, de lo que dice el manual y de lo que recoge mi experiencia, a estas alturas, quienes siguen el trabajo de Bienestar y Productividad, sabrán que tenemos una posición constructiva conforme a las necesidades de las empresas y trabajadores colombianos y que nos hemos atrevido a proponer mejoras y dar soluciones conforme a la experiencia, haciéndolo para servir y agradecer a todas las empresas y personas que han confiado en nuestra gestión.
 

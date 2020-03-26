@@ -4,7 +4,7 @@ title: >-
   RESOLUCIÓN 2404 DEL 22 DE JULIO DE 2019, AVANCES Y RETOS EN LA GESTIÓN DEL
   RIESGO PSICOSOCIAL EN COLOMBIA!
 status: Published
-date: 'August 27, 2019'
+date: 2019-08-17
 featuredImage: 'https://ucarecdn.com/1f28e1c3-e2eb-4c1a-94e4-02df1223470b/'
 excerpt: >-
   El pasado mes de Julio, el Ministerio de Trabajo de Colombia, expuso la
@@ -57,7 +57,8 @@ Bienestar y Productividad, viene promoviendo el masificar los reportes de result
 
 Considerando los dos párrafos anteriores y como profesional comprometida con la mejora continua del proceso de diagnóstico e intervención de los Riesgos Psicosociales, insisto en la gestión de los reportes de resultado individuales, ya que en los años de ejercicio, sé de primera mano, que los colaboradores, como es lógico, desean saber cuáles son sus resultados y con esto podemos orientarlos a nivel individual y contar con archivos históricos individuales, recordemos que como lo dice la presente resolución …“Los informes individuales… …forman parte de las evaluaciones periódicas ocupacionales… y son pocas las organizaciones que han dado el paso para que sus colaboradores conozcan sus resultados y gestionan los riesgos psicosociales de manera individual; es un hecho que por fortuna hay avances respecto a los diagnósticos grupales; sin embargo, en lo individual, el país se encuentran en “pañales”; por lo tanto deseo seguir contribuyendo en el crecimiento de los reportes de resultado individual, no solo con el equipo de Bienestar y Productividad, sino también, haciendo sinergia con organizaciones que vienen haciendo un excelente trabajo en materia psicosocial; ya que el bien común prima sobre los intereses personales y ese bien común primordial, es el mejoramiento de la salud mental y la generación de mejores escenarios de trabajo.
 
-Referente a la vigencia de la Resolución, para quienes se estén preguntando sobre lo hecho en el pasado, la publicación de la Resolución 2404 expresa literalmente en su artículo 8: “La presente resolución rige a partir de la fecha de su publicación”, por lo anterior, no hay retroactividad.
+
+Referente a la vigencia de la Resolución, para quienes se estén preguntando sobre lo hecho en el pasado, la publicación de la Resolución 2404 expresa literalmente en su artículo 8: “La presente resolución rige a partir de la fecha de su publicación”, por lo anterior, no hay retroactividad.
 
 
 

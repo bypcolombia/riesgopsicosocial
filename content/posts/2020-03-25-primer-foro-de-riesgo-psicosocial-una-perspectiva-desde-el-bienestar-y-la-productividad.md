@@ -4,13 +4,15 @@ title: >-
   Primer foro de Riesgo Psicosocial: Una perspectiva desde el Bienestar y la
   Productividad
 status: Published
-date: 'September 27, 2018 8:18 PM'
+date: 2018-09-27
 featuredImage: 'https://ucarecdn.com/67b6efde-26ce-4521-bdd2-db5d192ff91b/'
 excerpt: >-
   El 26 de septiembre de 2018, se realizó en Bogotá el primer foro Riesgo
   Psicosocial en el ámbito laboral, “un camino hacia la humanización del
   trabajo”, organizado por el Colegio Colombiano de Psicólogos (COLPSIC) y la
   Fundación Shalom, en el auditorio de la Fundación Universitaria San Martín.
+categories:
+  - category: Blog
 ---
 El día de ayer 26 de septiembre de 2018, se realizó en Bogotá el primer foro Riesgo Psicosocial en el ámbito laboral, “un camino hacia la humanización del trabajo”, organizado por el Colegio Colombiano de Psicólogos (COLPSIC) y la Fundación Shalom, en el auditorio de la Fundación Universitaria San Martin; escenario en el cual participaron importantes exponentes de las Administradoras de Riesgo Laboral, como Positiva, Colmena, y de facultades de Psicología, y la especialidad de Psicología Ocupacional y Organizacional como la Universidad El Bosque, Universidad Javeriana y Universidad San Martín.
 

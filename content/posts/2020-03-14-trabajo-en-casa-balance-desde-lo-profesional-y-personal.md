@@ -2,7 +2,7 @@
 template: SinglePost
 title: 'TRABAJO EN CASA: BALANCE DESDE LO PROFESIONAL Y PERSONAL'
 status: Published
-date: 2017-11-15T05:00:00.000Z
+date: 2017-11-15
 featuredImage: 'https://ucarecdn.com/a83f17ee-36ff-4bfa-af19-9cfbfef9d317/'
 excerpt: 'Autora: Ingrith Velez Ramos'
 categories:

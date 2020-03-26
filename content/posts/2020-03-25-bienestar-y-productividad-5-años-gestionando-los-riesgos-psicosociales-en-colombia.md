@@ -4,9 +4,11 @@ title: >-
   Bienestar y Productividad! 5 años gestionando los riesgos psicosociales en
   Colombia!
 status: Published
-date: 'November 18, 2019'
+date: 2019-11-18
 featuredImage: 'https://ucarecdn.com/8f802ea9-c7cd-4541-93db-cc4900274fd2/'
 excerpt: 5 Años de Bienestar y Productividad
+categories:
+  - category: Blog
 ---
 Hace más de 5 años, aun cuando se hablaba de Riesgo Psicosocial (RPS), los únicos que entendían eran aquellos que trabajaban en el sector de Hidrocarburos, grandes industrias y fábricas, quienes trabajaban en el sector de la salud y seguridad en el trabajo, algunos jefes de Gestión Humana, el Ministerio de Trabajo y el área de creación de la Batería de la Universidad Javeriana, y por supuesto Universidades como el Bosque y su valiosa especialización bajo la dirección de la doctora Yolanda Sierra, además de los especialistas en psicología ocupacional.
 
@@ -18,7 +20,8 @@ Recuerdo que cuando hablaba del tema, en escenarios diferentes a los mencionados
 
 En el primer semestre del 2012, con mi compañera de Tesis de la especialización, la doctora Ena Moscote, hicimos nuestro primer diagnóstico de Riesgo Psicosocial, para una importante compañía del sector financiero, sin embargo, nuestro trabajo no tuvo mayor impacto, quizás porque éramos estudiantes, o porque aún a las empresas no les interesaba y en ese momento tener el documento del diagnóstico, era más por cumplimiento del requisito legal, lo cual era conveniente para la organización; entonces desde ahí me quedó un sin sabor de todo lo que se podía hacer con el diagnostico, la valiosa información que este significaba para una organización y que había que darle el nivel que merecía en pro de mejorar la calidad de vida tanto de la organización como de los colaboradores de las empresas.
 
-Luego de regresar de Inglaterra, en el 2013, tomé un trabajo en una importante agencia de publicidad, en donde “manejaba” el área de Gestión Humana, digo “manejaba” porque en realidad no manejaba nada, al contrario, cada idea que exponía no era tenida en cuenta y por el contrario el director de la agencia, me dijo que a él no le interesaba lo que yo pensaba (por no expresar las palabras exactas, por respeto a mis lectores), por lo cual renuncié (verbalmente) porque en realidad esperé a que el me despidiera y con el dinero de la liquidación, tendría algo de tiempo para pensar que haría en adelante, pero era claro que no deseaba, desperdiciar mi formación y vocación del servicio.
+
+Luego de regresar de Inglaterra, en el 2013, tomé un trabajo en una importante agencia de publicidad, en donde “manejaba” el área de Gestión Humana, digo “manejaba” porque en realidad no manejaba nada, al contrario, cada idea que exponía no era tenida en cuenta y por el contrario el director de la agencia, me dijo que a él no le interesaba lo que yo pensaba (por no expresar las palabras exactas, por respeto a mis lectores), por lo cual renuncié (verbalmente) porque en realidad esperé a que el me despidiera y con el dinero de la liquidación, tendría algo de tiempo para pensar que haría en adelante, pero era claro que no deseaba, desperdiciar mi formación y vocación del servicio.
 
 
 
