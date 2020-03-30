@@ -38,14 +38,10 @@ gallery:
   - alt: Parking Inernacional
     image: 'https://ucarecdn.com/0c96a80d-364d-43f9-99d2-5f69af3e6f65/'
     title: ''
-  - alt: 2nv
-    image: 'https://ucarecdn.com/2e86cfaf-745f-4bd1-8739-ea5e74f3c8e1/'
   - alt: Amway
     image: 'https://ucarecdn.com/68cfffee-a02e-46fd-955e-901b3c2b3984/'
   - alt: Asesores gerenciales y auditores en salud
     image: 'https://ucarecdn.com/4f8f2bff-5273-4a20-b3ea-d5faa14dc5d5/'
-  - alt: Apple
-    image: 'https://ucarecdn.com/b4f9888e-116f-46b8-a254-74e0a0468d0e/'
   - alt: Consultores Anbientales y Ocupacionales
     image: 'https://ucarecdn.com/82f41a0d-8b74-43d1-84a5-57a7ffe1c9a4/'
   - alt: Civalco S.A.S
@@ -67,7 +63,13 @@ gallery:
   - alt: Remeo Medial Services
     image: 'https://ucarecdn.com/93cf7e44-51c9-4502-9d80-3e0ae7bcb26b/'
   - alt: Mundial de Aluminios
-    image: 'https://ucarecdn.com/3e237a0c-f7b6-4a1c-aa19-faa4d2e88c97/'  
+    image: 'https://ucarecdn.com/3e237a0c-f7b6-4a1c-aa19-faa4d2e88c97/'
+  - alt: 2nv
+    image: 'https://ucarecdn.com/2e86cfaf-745f-4bd1-8739-ea5e74f3c8e1/'
+    title: En Misión
+  - alt: Apple
+    image: 'https://ucarecdn.com/b4f9888e-116f-46b8-a254-74e0a0468d0e/'
+    title: En Misión
 meta:
   description: >-
     Expertos en Riesgo Psicosocial en Colombía. Líderes en Sistema de Seguridad
@@ -75,24 +77,5 @@ meta:
   title: >-
     Riesgo Psicosocial Colombia, Batería de Riesgo psicosocial, Sistema de
     Seguridad y Salud en el trabajo.
-    
 ---
-## Quiénes somos
 
-Bienestar y Productividad es una organización especializada en el Riesgo Psicosocial (Diagnóstico, SVE e intervención), Talento Humano, Capacitación, Asesoría y Diseño del Sistema de Salud y Seguridad en el Trabajo SG-SST, Baile Terapia y Teletrabajo.
-
-Somos una compañía innovadora, que está a la vanguardia de las exigencias de un mundo cada vez más globalizado;contamos con el sello de los Ministerios de Tecnologías de la Información y del Trabajo, como Entidad firmante del Pacto por el Teletrabajo, lo cual sostiene nuestro compromiso con la Innovación, la Productividad y la Calidad de Vida.
-
-Poseemos una alta Orientación de Servicio al Cliente externo e interno; contamos con experiencia a nivel nacional en reconocidas compañías de diversos sectores económicos.
-
-## Por qué elegirnos
-
-Generamos y ejecutamos proyectos personalizados dependiendo de las características y necesidades de su organización, así como soluciones practicas y efectivas para los Directivos y Departamentos de Gestión Humana a quienes acompañamos y asesoramos.
-
-Estamos respaldados por una red de profesionales especializados y experimentados en sus áreas, en las principales ciudades del país, que además, cuentan con licencias vigentes en salud y seguridad en el trabajo.
-
-Contamos con licencia en Seguridad y Salud en el Trabajo como organización y el sello que nos acredita como entidad firmante del Pacto por el Teletrabajo.
-
-## Historia
-
-Bienestar y Productividad se creó en el año 2014, por la doctora [Ingrith Vélez](https://www.linkedin.com/in/ingrithv%C3%A9lezramos/), quien puso su experiencia en Gestión del Riesgo Psicosocial, Gestión Humana y Salud y Seguridad en el Trabajo, al servicio de la organización; con el objetivo de mejorar el Bienestar, la Calidad de Vida y la Productividad de los trabajadores y dar solución a la necesidad de diagnosticar, gestionar e intervenir el Riesgo Psicosocial, lo cual es un requisito del Ministerio del Trabajo de Colombia, expuesto en la Resolución 2646 de 2008. En sus inicios, contó con una alianza estratégica con la empresa Europea **[People-Vox](https://www.people-vox.com/presentation-de-people-vox/)**, expertos en encuestas y en la Gestión de la Satisfacción.
