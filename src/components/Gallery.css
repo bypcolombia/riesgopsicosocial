@@ -46,7 +46,10 @@
 
 .Gallery--Item figcaption {
   text-align: center;
-  padding: 1rem 0;
+  padding: 0.5rem 0;
+  color: white;
+  background-color: var(--primary);
+ 
 }
 .Gallery--Item img {
   position: relative;
