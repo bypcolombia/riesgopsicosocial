@@ -9,19 +9,23 @@
   text-decoration: none;
 }
 .img-social{
-  height: 4.2rem;
-  width: 4.2rem;
+  height: 3.2rem;
+  width: 3.2rem;
   position: relative;
   display: inline-block;
   /* background: lightblue; */
   transition: 0.3s ease all;
   margin: 2px 2rem; 
-  
+    
  }
-
+ .social-container >svg
+ {
+fill: var(--primary)!important;
+    
+ }
 .img-social:hover {
-  height: 4.7rem;
-  width: 4.7rem;
+  height: 3.7rem;
+  width: 3.7rem;
 }
 
 .img-social:hover .SVGIcon--icon {
@@ -31,6 +35,5 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 6rem;
-
+  height: 5rem;
 }

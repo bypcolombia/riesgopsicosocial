@@ -13,7 +13,7 @@ export default () => (
   </div>
   <h2 className="taCenter">
       Síguenos en{' '}
-      <a href="https://instagram.com/bienestaryproductividadsas/" target="_blank">@bienestaryproductividadsas</a>
+      <a href="https://instagram.com/bienestaryproductividadsas/" target="_blank" rel="noopener">@bienestaryproductividadsas</a>
     </h2>
     <br />
     <InstagramFeed count="8" />
