@@ -91,65 +91,8 @@ section2: >-
   * Análisis de Puestos de Trabajo
 video: 'https://ucarecdn.com/fca1505b-ee5e-41ab-a469-d73ba771b692/'
 videoPoster: 'https://ucarecdn.com/1ae240ab-fefe-4f3f-bd84-5c3e0a83c7a9/'
-videoTitle: >-
-  Metodología: Diagnóstico, Sistema de Vigilancia Epidemiológica (SVE) e
-  intervención en RPS
-section3: >-
-  El Programa de Vigilancia Epidemiológica para Factores de Riesgo Psicosocial,
-  se desarrollará a partir del Ciclo PHVA, de la siguiente manera:
-
-
-  #### PLANEAR
-
-
-  Los instrumentos de recolección de datos para la elaboración del informe de
-  identificación, priorización e intervención de los factores psicosociales, son
-  los siguientes:
-
-
-  *  Identificación de los peligros, valoración de los riesgos y establecimiento
-  de los controles.
-
-  *  Ausentismo.
-
-  *  Matriz de requisitos legales.
-
-  *  Informe psicológico preocupacional (Personalidad y Estilos de
-  Afrontamiento).
-
-  *  Informe de condiciones de salud (Perfil sociodemográfico y Morbilidad).
-
-  *  Instrumentos de medición para factores psicosociales.
-
-  *  Autorreporte de condiciones de trabajo y salud.
-
-  *  Registro y seguimiento a los resultados de los indicadores del SGSST del
-  año anterior.
-
-
-  #### HACER
-
-
-  * Aprobación por la gerencia del Plan de Trabajo Anual y el Programa de
-  Capacitación.
-
-  * Ejecución del Plan de Trabajo Anual.
-
-  * Ejecución del Programa de Capacitación.
-
-
-  #### VERIFICAR
-
-
-  Seguimiento al informe de desempeño de los programas del SGSST en el formato
-  FSE.10.
-
-
-  #### ACTUAR
-
-
-  Acciones preventivas y correctivas al Plan de Trabajo Anual y Programa de
-  Capacitación en pro de la mejora continua, según el caso.
+videoTitle: METODOLOGÍA PARA EL DIAGNÓSTICO E INTEREVENCIÓN DEL RIESGO PSICOSOCIAL
+section3: "### FASE I \n#### DIAGNÓSTICO DE (RPS)\n\n•\tAsesoría en: Logística y Comunicación\n\n•\tToma de datos: sensibilización, firma de consentimientos informados, análisis de datos, resultados, conclusiones y recomendaciones\n\n•\tFocus Groups confirmatorios (Opcional) para los casos en que se requiera recabar mayor información\n\n### FASE II\n\n#### ELABORACIÓN DEL DOCUMENTO DE VIGILANCIA EPIDEMIOLÓGICA (SVE en RPS)\n\n•\tAcuerdo con la dirección sobre los aspectos de las recomendaciones que se tendrán en cuenta para la intervención\n\n•\tElaboración del cronograma (fechas, responsables, recursos)\n\n•\tEstablecimiento de indicadores\n\n•\tArticulación del SVE en RPS con el SGSST\n\n•\tFirma del SVE en RPS por parte del especialista \n\n•\tDivulgación de resultados y SVE en RPS. \n\n### FASE III\n\n#### PUESTA EN  MARCHA DEL PLAN DE INTERVENCIÓN\n\n•\tEjecución de actividades contempladas en el documento de vigilancia epidemiológica\n\n•\tSeguimiento de actividades a través de los indicadores, establecidos en el documento de vigilancia epidemiológica"
 gallery:
   - alt: Calypso del Caribe
     image: 'https://ucarecdn.com/cbe44ea8-d583-4c2f-89b3-5eaf6ba451df/'
