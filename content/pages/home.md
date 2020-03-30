@@ -5,23 +5,20 @@ title: Bienestar y Productividad
 featuredImage: 'https://ucarecdn.com/ba956271-55c1-4d46-8ad3-ad24e462f7e9/'
 subtitle: '### _Generando Bienestar_'
 gallery:
+  - alt: Calypso del Caribe
+    image: 'https://ucarecdn.com/cbe44ea8-d583-4c2f-89b3-5eaf6ba451df/'
+    title: ''
   - alt: Coopsanitas
     image: 'https://ucarecdn.com/8bf347c8-5762-4b96-b04d-dc71877592c0/'
     title: ''
   - alt: DNA MUSIC
     image: 'https://ucarecdn.com/29b33fee-397a-4a9e-b7b1-328a1126f2b3/'
     title: ''
-  - alt: Calypso del Caribe
-    image: 'https://ucarecdn.com/cbe44ea8-d583-4c2f-89b3-5eaf6ba451df/'
-    title: ''
   - alt: coopcarvajal
     image: 'https://ucarecdn.com/cb1da592-158f-4e90-b637-c6c91bc9bce0/'
     title: ''
   - alt: BDO
     image: 'https://ucarecdn.com/a99f30f2-4d9b-4a01-983b-80aed1c7a298/'
-    title: ''
-  - alt: Despegar
-    image: 'https://ucarecdn.com/dbe07872-793e-4507-8c92-1450ebfda57a/'
     title: ''
   - alt: La Arboleda
     image: 'https://ucarecdn.com/cfc8b3ab-e264-47bf-ab14-ee79c91eb0e2/'
@@ -40,8 +37,6 @@ gallery:
     image: 'https://ucarecdn.com/82f41a0d-8b74-43d1-84a5-57a7ffe1c9a4/'
   - alt: Civalco S.A.S
     image: 'https://ucarecdn.com/ef3f57c5-2bc2-4fc9-a8c0-b0d418bed4f7/'
-  - alt: Coopsanitas
-    image: 'https://ucarecdn.com/2401efef-9e96-4738-be77-65014d9986e5/'
   - alt: Fayad Moudad SAS
     image: 'https://ucarecdn.com/805888a4-ea3c-4d1e-9d58-4573055e753b/'
   - alt: Instituto nacional de formación y desarrollo
@@ -52,9 +47,6 @@ gallery:
     image: 'https://ucarecdn.com/59067edc-93f6-4fc9-9a72-f3eea4917564/'
   - alt: Remeo Medial Services
     image: 'https://ucarecdn.com/93cf7e44-51c9-4502-9d80-3e0ae7bcb26b/'
-  - alt: 2nv
-    image: 'https://ucarecdn.com/2e86cfaf-745f-4bd1-8739-ea5e74f3c8e1/'
-    title: En Misión
   - alt: Apple
     image: 'https://ucarecdn.com/b4f9888e-116f-46b8-a254-74e0a0468d0e/'
     title: En Misión
@@ -73,9 +65,6 @@ gallery:
   - alt: Diseños Street Fashion
     image: 'https://ucarecdn.com/494d0ece-d4df-499d-862f-6fc4e1a3aa6a/'
     title: En Misión
-  - alt: Montajes J.M S.A
-    image: 'https://ucarecdn.com/8386cdc6-69ac-4ce9-a420-100172ba47fa/'
-    title: En misión
   - alt: despegar.com
     image: 'https://ucarecdn.com/9cf39aa8-53f5-4ffd-8428-804df0a60729/'
     title: En Misión
@@ -94,8 +83,6 @@ gallery:
     image: 'https://ucarecdn.com/6f7f021b-e369-49dc-a21c-9356ac376fea/'
   - alt: Skyline
     image: 'https://ucarecdn.com/e1674770-84a0-4b46-a0f9-992467794a9c/'
-  - alt: Vinyl Box
-    image: 'https://ucarecdn.com/2d0ce47f-4b48-4666-9bc7-df01a32287d2/'
   - alt: Sindicato Nacional de Traumatología y Ortopedia
     image: 'https://ucarecdn.com/20abd75a-6dbe-4ffe-8f5b-b13859e5c3d5/'
   - alt: Inzeett
@@ -112,10 +99,19 @@ gallery:
     image: 'https://ucarecdn.com/6db86f6b-f305-4c91-9a2d-a143cfd5def7/'
   - alt: AGS
     image: 'https://ucarecdn.com/271ece95-6bd2-4ed9-8fe8-7908cd9aa5f8/'
-  - alt: Jaime Arteaga & asociados
-    image: 'https://ucarecdn.com/b29b2345-9a8d-4e7f-872b-379ba61f1b40/'
   - alt: FayadMourad
     image: 'https://ucarecdn.com/59abe347-1ed7-49e7-a303-a30459478701/'
+  - alt: Jaime Arteaga & asociados
+    image: 'https://ucarecdn.com/b29b2345-9a8d-4e7f-872b-379ba61f1b40/'
+  - alt: Despegar
+    image: 'https://ucarecdn.com/dbe07872-793e-4507-8c92-1450ebfda57a/'
+    title: En Misión
+  - alt: 2nv
+    image: 'https://ucarecdn.com/2e86cfaf-745f-4bd1-8739-ea5e74f3c8e1/'
+    title: En Misión
+  - alt: Montajes J.M S.A
+    image: 'https://ucarecdn.com/8386cdc6-69ac-4ce9-a420-100172ba47fa/'
+    title: En misión
 meta:
   description: >-
     Expertos en Riesgo Psicosocial en Colombía. Líderes en Sistema de Seguridad
