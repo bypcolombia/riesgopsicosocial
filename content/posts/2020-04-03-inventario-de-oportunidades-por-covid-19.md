@@ -7,6 +7,8 @@ featuredImage: 'https://ucarecdn.com/7a8f5a07-6a1c-4607-80b7-316f04bd61fc/'
 excerpt: >-
   El inventario de oportunidades por COVID-19, es una mirada, que nos invita a
   fortalecernos en estos tiempos...
+categories:
+  - category: Blog
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
