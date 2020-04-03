@@ -37,4 +37,4 @@ Ingrith Vélez
 
 Especialista en Psicología Ocupacional
 
-[Descargar "Protocolo contra el COVID-19"](https://drive.google.com/open?id=1LvTbsdkj8J0RqmBwzPHcyjByPTObnZxg)
+### [Descargar: "Protocolo contra el COVID-19"](https://drive.google.com/open?id=1LvTbsdkj8J0RqmBwzPHcyjByPTObnZxg)
