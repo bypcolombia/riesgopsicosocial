@@ -62,8 +62,8 @@ gallery:
     image: 'https://ucarecdn.com/46edbfe1-8884-4301-a32b-bb600585f8d3/'
   - alt: Onteal
     image: 'https://ucarecdn.com/df4008f4-36ee-4e31-b0ed-73d9a491c334/'
-  - image: 'https://ucarecdn.com/230575a6-6017-444f-bb13-f98e61d7b718/'
-    alt: VINYL BOX MUSIC CENTER
+  - alt: VINYL BOX MUSIC CENTER
+    image: 'https://ucarecdn.com/230575a6-6017-444f-bb13-f98e61d7b718/'
   - alt: DNA MUSIC
     image: 'https://ucarecdn.com/29b33fee-397a-4a9e-b7b1-328a1126f2b3/'
     title: ''
@@ -123,7 +123,6 @@ meta:
     Riesgo Psicosocial, Batería de Riesgo psicosocial Colombia, Sistema de
     Seguridad y Salud en el trabajo, SGSST, Capacitación, Baile Terapia
 ---
-
 ## Quiénes somos
 
 Bienestar y Productividad es una organización especializada en el Riesgo Psicosocial (Diagnóstico, SVE e intervención), Talento Humano, Capacitación, Asesoría y Diseño del Sistema de Salud y Seguridad en el Trabajo SG-SST, Baile Terapia y Teletrabajo.
@@ -143,3 +142,5 @@ Contamos con licencia en Seguridad y Salud en el Trabajo como organización y el
 ## Historia
 
 Bienestar y Productividad se creó en el año 2014, por la doctora [Ingrith Vélez](https://www.linkedin.com/in/ingrithv%C3%A9lezramos/), quien puso su experiencia en Gestión del Riesgo Psicosocial, Gestión Humana y Salud y Seguridad en el Trabajo, al servicio de la organización; con el objetivo de mejorar el Bienestar, la Calidad de Vida y la Productividad de los trabajadores y dar solución a la necesidad de diagnosticar, gestionar e intervenir el Riesgo Psicosocial, lo cual es un requisito del Ministerio del Trabajo de Colombia, expuesto en la Resolución 2646 de 2008. En sus inicios, contó con una alianza estratégica con la empresa Europea **[People-Vox](https://www.people-vox.com/presentation-de-people-vox/)**, expertos en encuestas y en la Gestión de la Satisfacción.
+
+![Nueva Pagina Bienestar y Productividad](https://ucarecdn.com/2635525a-2900-45a7-8f3e-0fd7e4f4b372/)
