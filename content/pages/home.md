@@ -123,6 +123,7 @@ meta:
     Riesgo Psicosocial, Batería de Riesgo psicosocial Colombia, Sistema de
     Seguridad y Salud en el trabajo, SGSST, Capacitación, Baile Terapia
 ---
+
 ## Quiénes somos
 
 Bienestar y Productividad es una organización especializada en el Riesgo Psicosocial (Diagnóstico, SVE e intervención), Talento Humano, Capacitación, Asesoría y Diseño del Sistema de Salud y Seguridad en el Trabajo SG-SST, Baile Terapia y Teletrabajo.
