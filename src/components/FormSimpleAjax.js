@@ -66,8 +66,8 @@ class Form extends React.Component {
           name={name}
           action={action}
           onSubmit={this.handleSubmit}
-          data-netlify="true"
-          netlify-recaptcha="true"
+          data-netlify=""
+          netlify-recaptcha=""
         >
          
           <div className="Form--Group">
