@@ -9,7 +9,7 @@ class Form extends React.Component {
   static defaultProps = {
     name: 'Simple Form Ajax',
     subject: '', // optional subject of the notification email
-    action: 'https://bienestaryproductividad.com.co/contact/',
+    action: '',
     successMessage: 'Gracias por escribirnos, le responderemos pronto',
     errorMessage:
       'Hubo un problema, su mensaje no se pudo entregar, por favor contactenos por correo'
@@ -66,8 +66,8 @@ class Form extends React.Component {
           name={name}
           action={action}
           onSubmit={this.handleSubmit}
-          data-netlify="true"
-          netlify-recaptcha="true"
+          data-netlify=""
+          netlify-recaptcha=""
         >
          
           <div className="Form--Group">
