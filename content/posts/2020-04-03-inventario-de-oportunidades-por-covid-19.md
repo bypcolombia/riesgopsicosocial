@@ -36,5 +36,3 @@ La vida avanzará con nosotros o si nosotros, mientras estemos aquí hagamos que
 Ingrith Vélez
 
 Especialista en Psicología Ocupacional
-
-### [Descargar: "Protocolo contra el COVID-19"](https://drive.google.com/open?id=1LvTbsdkj8J0RqmBwzPHcyjByPTObnZxg)
