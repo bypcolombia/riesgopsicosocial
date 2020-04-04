@@ -69,9 +69,7 @@ class Form extends React.Component {
           data-netlify="true"
           netlify-recaptcha="true"
         >
-          {this.state.alert && (
-            <div className="Form--Alert">{this.state.alert}</div>
-          )}
+         
           <div className="Form--Group">
             <label className="Form--Label">
               <input
@@ -167,6 +165,9 @@ class Form extends React.Component {
             value="Enviar"
             disabled={this.state.disabled}
           />
+       {this.state.alert && (
+            <div className="Form--Alert">{this.state.alert}</div>
+          )}
         </form>
       </Fragment>
     )
