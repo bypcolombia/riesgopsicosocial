@@ -7,7 +7,7 @@ import './Form.css'
 
 class Form extends React.Component {
   static defaultProps = {
-    name: 'Simple Form Ajax',
+    name: 'BYP Form',
     subject: '', // optional subject of the notification email
     action: '',
     successMessage: 'Gracias por escribirnos, le responderemos pronto',
@@ -66,8 +66,8 @@ class Form extends React.Component {
           name={name}
           action={action}
           onSubmit={this.handleSubmit}
-          data-netlify=""
-          netlify-recaptcha=""
+          data-netlify="true"
+          netlify-recaptcha="true"
         >
          
           <div className="Form--Group">
@@ -153,10 +153,7 @@ class Form extends React.Component {
             />
             <span>Acepto la política de tratamiento de datos personales</span>
           </label>
-          <div
-            className="g-recaptcha"
-            data-sitekey="6LewoeYUAAAAANKT7ijG4NeAmr8mesdhAc5jq18t"
-          />
+          <div data-netlify-recaptcha="true"/>
           {!!subject && <input type="hidden" name="subject" value={subject} />}
           <input type="hidden" name="form-name" value={name} />
           <input
