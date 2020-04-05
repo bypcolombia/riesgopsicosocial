@@ -73,7 +73,7 @@ class Form extends React.Component {
                 className="Form--Input Form--InputText"
                 type="text"
                 placeholder="Firstname"
-                name="firstname"
+                name="Nombre"
                 required
               />
               <span>Nombre</span>
@@ -83,34 +83,12 @@ class Form extends React.Component {
                 className="Form--Input Form--InputText"
                 type="text"
                 placeholder="Lastname"
-                name="lastname"
+                name="Apellido"
                 required
               />
               <span>Apellido</span>
             </label>
           </div>
-          <fieldset>
-            <label className="Form--Label Form--Radio">
-              <input
-                className="Form--RadioInput"
-                type="radio"
-                name="gender"
-                value="male"
-                defaultChecked
-              />
-              <span>Empresa</span>
-            </label>
-            
-            <label className="Form--Label Form--Radio">
-              <input
-                className="Form--RadioInput"
-                type="radio"
-                name="gender"
-                value="female"
-              />
-              <span>Persona</span>
-            </label>
-          </fieldset>
           <label className="Form--Label">
             <input
               className="Form--Input Form--InputText"
@@ -145,7 +123,7 @@ class Form extends React.Component {
           <label className="Form--Label Form-Checkbox">
             <input
               className="Form--Input Form--Textarea Form--CheckboxInput"
-              name="newsletter"
+              name="acepta-terminos"
               type="checkbox"
             />
             <span>Acepto la política de tratamiento de datos personales</span>

@@ -1,6 +1,6 @@
 ---
 template: ContactPage
-slug: contact
+slug: contacto
 title: Contacto
 featuredImage: 'https://ucarecdn.com/99a3b301-6bc3-48ad-bd56-e4aaeb854e43/'
 subtitle: '### **_Contáctanos para tener el gusto de servirte_**'

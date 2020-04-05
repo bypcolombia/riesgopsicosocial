@@ -1,6 +1,6 @@
 ---
 template: ComponentsPage
-slug: components
+slug: riesgo-psicosocial
 title: Riesgo Psicosocial
 featuredImage: 'https://ucarecdn.com/0599753e-5563-4fc1-8243-caddbdfc24a7/'
 subtitle: '### **_Prevención, Diagnóstico e Intervención_**'
