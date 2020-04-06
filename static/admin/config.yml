@@ -167,6 +167,10 @@ collections: # A list of collections the CMS should be able to edit
              defaultOperations: '/resize/300x/'
               
                 }
+          - { label: Sección 4, name: section4, widget: markdown }
+          - { label: Dirección, name: address, widget: text }
+          - { label: Teléfono, name: phone, widget: string }
+          - { label: Email Address, name: email, widget: string }
               - { name: alt, label: Nombre para SEO2, widget: string }
               - { name: title, label: Titlulo2, widget: string, required: false }
           - label: 'Meta'
