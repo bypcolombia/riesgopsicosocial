@@ -5,6 +5,9 @@ import Content from '../components/Content.js'
 import Layout from '../components/Layout.js'
 import BackgroundVideo from '../components/BackgroundVideo'
 import Gallery from '../components/Gallery'
+import './ContactPage.css'
+import FormSimpleAjax from '../components/FormSimpleAjax'
+import { MapPin, Smartphone, Mail } from 'react-feather'
 
 
 // Export Template for use in CMS preview
@@ -18,8 +21,12 @@ export const ComponentsPageTemplate = ({
   videoPoster,
   videoTitle,
   section3,
+  section4,
   body,
-  gallery
+  gallery,
+  address,
+  phone,
+  email,
 }) => (
   <main>
     <PageHeader
@@ -58,6 +65,41 @@ export const ComponentsPageTemplate = ({
         <Gallery images={gallery} />
       </div>
     </section>
+    <section className="section Contact--Section1">
+      <div className="container Contact--Section1--Container">
+        <div>
+          <Content source={section4} />
+          <div className="Contact--Details">
+            {address && (
+              <a
+                className="Contact--Details--Item"
+                href={`https://www.google.com.au/maps/search/${encodeURI(
+                  address
+                )}`}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <MapPin /> {address}
+              </a>
+            )}
+            {phone && (
+              <a className="Contact--Details--Item" href={`tel:${phone}`}>
+                <Smartphone /> {phone}
+              </a>
+            )}
+            {email && (
+              <a className="Contact--Details--Item" href={`mailto:${email}`}>
+                <Mail /> {email}
+              </a>
+            )}
+          </div>
+        </div>
+
+        <div>
+          <FormSimpleAjax name="Simple Form Ajax" />
+        </div>
+      </div>
+    </section>
   </main>
 )
 
@@ -86,9 +128,18 @@ export const pageQuery = graphql`
         section1
         section2
         section3
+        section4
         video
         videoPoster
         videoTitle
+        address
+        phone
+        email
+        locations {
+          mapLink
+          lat
+          lng
+        }
        
       }
     }

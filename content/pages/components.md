@@ -4,6 +4,13 @@ slug: riesgo-psicosocial
 title: Riesgo Psicosocial
 featuredImage: 'https://ucarecdn.com/0599753e-5563-4fc1-8243-caddbdfc24a7/'
 subtitle: '### **_Prevención, Diagnóstico e Intervención_**'
+address: 'Cl. 138 # 10 A - 39, Bogotá, Colombia'
+phone: 'Mobile: 301 5103946  Teléfono:  (1) 5276449'
+email: servicio@bienestaryproductividad.com.co
+locations:
+  - lat: '4.7171396 '
+    lng: ' 74.0368383'
+    mapLink: ''
 section1: >-
   ## Qué son los Riesgos Psicosociales (RPS)
 
@@ -93,6 +100,7 @@ video: 'https://ucarecdn.com/fca1505b-ee5e-41ab-a469-d73ba771b692/'
 videoPoster: 'https://ucarecdn.com/1ae240ab-fefe-4f3f-bd84-5c3e0a83c7a9/'
 videoTitle: METODOLOGÍA PARA EL DIAGNÓSTICO E INTEREVENCIÓN DEL RIESGO PSICOSOCIAL
 section3: "### FASE I \n#### DIAGNÓSTICO DE (RPS)\n\n•\tAsesoría en: Logística y Comunicación\n\n•\tToma de datos: sensibilización, firma de consentimientos informados, análisis de datos, resultados, conclusiones y recomendaciones\n\n•\tFocus Groups confirmatorios (Opcional) para los casos en que se requiera recabar mayor información\n\n### FASE II\n\n#### ELABORACIÓN DEL DOCUMENTO DE VIGILANCIA EPIDEMIOLÓGICA (SVE en RPS)\n\n•\tAcuerdo con la dirección sobre los aspectos de las recomendaciones que se tendrán en cuenta para la intervención\n\n•\tElaboración del cronograma (fechas, responsables, recursos)\n\n•\tEstablecimiento de indicadores\n\n•\tArticulación del SVE en RPS con el SGSST\n\n•\tFirma del SVE en RPS por parte del especialista \n\n•\tDivulgación de resultados y SVE en RPS. \n\n### FASE III\n\n#### PUESTA EN  MARCHA DEL PLAN DE INTERVENCIÓN\n\n•\tEjecución de actividades contempladas en el documento de vigilancia epidemiológica\n\n•\tSeguimiento de actividades a través de los indicadores, establecidos en el documento de vigilancia epidemiológica"
+section4: "### FASE I \n#### DIAGNÓSTICO DE (RPS)\n\n•\tAsesoría en: Logística y Comunicación\n\n•\tToma de datos: sensibilización, firma de consentimientos informados, análisis de datos, resultados, conclusiones y recomendaciones\n\n•\tFocus Groups confirmatorios (Opcional) para los casos en que se requiera recabar mayor información\n\n### FASE II\n\n#### ELABORACIÓN DEL DOCUMENTO DE VIGILANCIA EPIDEMIOLÓGICA (SVE en RPS)\n\n•\tAcuerdo con la dirección sobre los aspectos de las recomendaciones que se tendrán en cuenta para la intervención\n\n•\tElaboración del cronograma (fechas, responsables, recursos)\n\n•\tEstablecimiento de indicadores\n\n•\tArticulación del SVE en RPS con el SGSST\n\n•\tFirma del SVE en RPS por parte del especialista \n\n•\tDivulgación de resultados y SVE en RPS. \n\n### FASE III\n\n#### PUESTA EN  MARCHA DEL PLAN DE INTERVENCIÓN\n\n•\tEjecución de actividades contempladas en el documento de vigilancia epidemiológica\n\n•\tSeguimiento de actividades a través de los indicadores, establecidos en el documento de vigilancia epidemiológica"
 gallery:
   - alt: Calypso del Caribe
     image: 'https://ucarecdn.com/cbe44ea8-d583-4c2f-89b3-5eaf6ba451df/'
