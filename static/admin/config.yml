@@ -137,7 +137,7 @@ collections: # A list of collections the CMS should be able to edit
                   required: false,
                 }
 
-      - file: 'content/pages/components.md'
+      - file: 'content/pages/home.md'
         label: 'Riesgo Psicosocial'
         name: 'components-page'
         create: true
@@ -194,7 +194,7 @@ collections: # A list of collections the CMS should be able to edit
                   required: false,
                 }
 
-      - file: 'content/pages/home.md'
+      - file: 'content/pages/home2.md'
         label: 'Inicio'
         name: 'home-page'
         fields:
