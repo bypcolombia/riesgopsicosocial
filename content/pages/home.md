@@ -4,13 +4,6 @@ slug: ''
 title: Riesgo Psicosocial
 featuredImage: 'https://ucarecdn.com/0599753e-5563-4fc1-8243-caddbdfc24a7/'
 subtitle: '### **_Prevención, Diagnóstico e Intervención_**'
-address: 'Cl. 138 # 10 A - 39, Bogotá, Colombia'
-phone: 'Mobile: 301 5103946  Teléfono:  (1) 5276449'
-email: servicio@bienestaryproductividad.com.co
-locations:
-  - lat: '4.7171396 '
-    lng: ' 74.0368383'
-    mapLink: ''
 section1: >-
   ## Qué son los Riesgos Psicosociales (RPS)
 
@@ -100,7 +93,6 @@ video: 'https://ucarecdn.com/fca1505b-ee5e-41ab-a469-d73ba771b692/'
 videoPoster: 'https://ucarecdn.com/1ae240ab-fefe-4f3f-bd84-5c3e0a83c7a9/'
 videoTitle: METODOLOGÍA PARA EL DIAGNÓSTICO E INTEREVENCIÓN DEL RIESGO PSICOSOCIAL
 section3: "### FASE I \n#### DIAGNÓSTICO DE (RPS)\n\n•\tAsesoría en: Logística y Comunicación\n\n•\tToma de datos: sensibilización, firma de consentimientos informados, análisis de datos, resultados, conclusiones y recomendaciones\n\n•\tFocus Groups confirmatorios (Opcional) para los casos en que se requiera recabar mayor información\n\n### FASE II\n\n#### ELABORACIÓN DEL DOCUMENTO DE VIGILANCIA EPIDEMIOLÓGICA (SVE en RPS)\n\n•\tAcuerdo con la dirección sobre los aspectos de las recomendaciones que se tendrán en cuenta para la intervención\n\n•\tElaboración del cronograma (fechas, responsables, recursos)\n\n•\tEstablecimiento de indicadores\n\n•\tArticulación del SVE en RPS con el SGSST\n\n•\tFirma del SVE en RPS por parte del especialista \n\n•\tDivulgación de resultados y SVE en RPS. \n\n### FASE III\n\n#### PUESTA EN  MARCHA DEL PLAN DE INTERVENCIÓN\n\n•\tEjecución de actividades contempladas en el documento de vigilancia epidemiológica\n\n•\tSeguimiento de actividades a través de los indicadores, establecidos en el documento de vigilancia epidemiológica"
-section4: "### FASE I \n#### DIAGNÓSTICO DE (RPS)\n\n•\tAsesoría en: Logística y Comunicación\n\n•\tToma de datos: sensibilización, firma de consentimientos informados, análisis de datos, resultados, conclusiones y recomendaciones\n\n•\tFocus Groups confirmatorios (Opcional) para los casos en que se requiera recabar mayor información\n\n### FASE II\n\n#### ELABORACIÓN DEL DOCUMENTO DE VIGILANCIA EPIDEMIOLÓGICA (SVE en RPS)\n\n•\tAcuerdo con la dirección sobre los aspectos de las recomendaciones que se tendrán en cuenta para la intervención\n\n•\tElaboración del cronograma (fechas, responsables, recursos)\n\n•\tEstablecimiento de indicadores\n\n•\tArticulación del SVE en RPS con el SGSST\n\n•\tFirma del SVE en RPS por parte del especialista \n\n•\tDivulgación de resultados y SVE en RPS. \n\n### FASE III\n\n#### PUESTA EN  MARCHA DEL PLAN DE INTERVENCIÓN\n\n•\tEjecución de actividades contempladas en el documento de vigilancia epidemiológica\n\n•\tSeguimiento de actividades a través de los indicadores, establecidos en el documento de vigilancia epidemiológica"
 gallery:
   - alt: Calypso del Caribe
     image: 'https://ucarecdn.com/cbe44ea8-d583-4c2f-89b3-5eaf6ba451df/'
@@ -159,8 +151,60 @@ gallery:
     image: 'https://ucarecdn.com/93cf7e44-51c9-4502-9d80-3e0ae7bcb26b/'
   - alt: Mundial de Aluminios
     image: 'https://ucarecdn.com/3e237a0c-f7b6-4a1c-aa19-faa4d2e88c97/'
+section4: >-
+  ## Contacto
+
+
+  ### ***Contáctanos para tener el gusto de servirte***
+
+
+  ###### Al momento de diligenciar el formulario autoriza a BIENESTAR Y
+  PRODUCTIVIDAD SAS NIT. 900.791.434-0, domiciliada y ubicada en Bogotá -
+  Colombia - Teléfono 52 76449 y páginas web: www.bienestaryproductiviad.com.co
+  y www.riesgopsicosocial.com.co, como responsables del tratamiento de datos
+  personales a recopilar, almacenar, usar y circular los datos por usted
+  incluidos para: a) Realizar el registro en nuestras bases de datos, b)
+  Enviarle la propuesta que aquí nos solicita, c) enviar comunicaciones e
+  información sobre nuestros servicios, d) responder inquietudes sobre nuestros
+  servicios, e) invitar y/o enviar comunicaciones de los eventos, cursos, foros,
+  seminarios, talleres y capacitaciones y demás servicios propios del objeto
+  social de Bienestar y Productividad sas, f) permitir el registro fotográfico y
+  audiovisual, en los eventos de formación, difusión y promoción de nuestros
+  servicios, con el fin de generar y publicar noticias en los diferentes medios
+  de comunicación, en los eventos de formación, difusión y promoción, en
+  nuestros portales web y redes sociales, en la elaboración de piezas
+  promocionales y publicitarias de carácter digital, impreso y audiovisual. En
+  todo caso, BIENESTAR Y PRODUCTIVIDAD SAS, respetará los derechos de autoría y
+  propiedad intelectual de las piezas utilizadas en material promocional o
+  publicitario, sin que esto suponga retribución y/o compensación económica
+  alguna, g) realizar encuestas o evaluaciones de los servicios realizados y
+  ofrecidos h) generar informes o estadísticas de los solicitantes en nuestras
+  páginas web’s. Estas finalidades se podrán realizar a través de medios
+  físicos, digitales, electrónicos o telefónicos. Usted podrá resolver dudas o
+  inquietudes respecto al manejo del tratamiento de los datos personales y/o
+  solicitar la Política de Protección de Datos Personales en el mail
+  servicio@bienestaryproductividad.com.co; considerando el cumplimiento de lo
+  descrito en el Artículo 2.2.2.25.4.1 del Decreto 1074 de 2015. Así mismo, le
+  informamos que sus derechos como titular de datos personales son: (i) Acceder
+  en forma gratuita a los datos proporcionados que hayan sido objeto de
+  tratamiento. (ii) Conocer, actualizar y rectificar su información frente a
+  datos parciales, inexactos, incompletos, fraccionados, que induzcan a error, o
+  a aquellos cuyo tratamiento esté prohibido o no haya sido autorizado. (iii)
+  Solicitar prueba de la autorización otorgada. (iv) Presentar ante la
+  Superintendencia de Industria y Comercio (SIC) quejas por infracciones a lo
+  dispuesto en la normatividad vigente. (v) Revocar la autorización y/o
+  solicitar la supresión del dato, siempre que no exista un deber legal o
+  contractual que impida eliminarlos. (vi) Abstenerse de responder las preguntas
+  sobre datos sensibles.`
+address: 'Cl. 138 # 10 A - 39, Bogotá, Colombia'
+phone: 'Mobile: 301 5103946  Teléfono:  (1) 5276449'
+email: servicio@bienestaryproductividad.com.co
+alt: Riesgo Psicosocial Colombia
 meta:
   description: 'Riesgo Psicosocial en Colombia, Envaluación de Riesgo psicosocial'
   title: Riesgo Psicosocial
+locations:
+  - lat: '4.7171396 '
+    lng: ' 74.0368383'
+    mapLink: ''
 ---
-
