@@ -2,8 +2,8 @@ const postcssPresetEnv = require('postcss-preset-env')
 
 module.exports = {
   siteMetadata: {
-    title: 'Bienestar y Productividad',
-    siteUrl: 'https://bienestaryproductividad.com.co'
+    title: 'Riesgo Psicosocial',
+    siteUrl: 'https://riesgopsicosocial.co'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -44,8 +44,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Bienestar y Productividad',
-        short_name: 'B&P',
+        name: 'Riesgo Psicosocial',
+        short_name: 'Riesgo-Psico',
         start_url: '/',
         background_color: '#7f20b0',
         theme_color: '#7f20b0',
