@@ -1,6 +1,6 @@
 ---
 template: HomePage
-slug: home
+slug: homeold
 title: Bienestar y Productividad
 featuredImage: 'https://ucarecdn.com/4e78efe8-99bb-49a0-af2f-b6420af5363a/'
 subtitle: '### *Generando Bienestar*'

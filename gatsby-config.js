@@ -45,7 +45,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: 'Riesgo Psicosocial',
-        short_name: 'Riesgo-Psico',
+        short_name: 'Riesgo Psicosocial',
         start_url: '/',
         background_color: '#7f20b0',
         theme_color: '#7f20b0',
