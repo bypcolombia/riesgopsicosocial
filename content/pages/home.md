@@ -93,8 +93,8 @@ section2: >-
 
 
 
-  ### Descargar [Batería de Riesgo Psicosocial
-  PDF](https://drive.google.com/file/d/1cwmRQtVEWO6m9p-PK2Xv4KtSo0iW1vF6/view?usp=sharing)
+  ### Descargar [Batería de Riesgo Psicosocial.
+  pdf](https://drive.google.com/file/d/1cwmRQtVEWO6m9p-PK2Xv4KtSo0iW1vF6/view?usp=sharing)
 video: 'https://ucarecdn.com/fca1505b-ee5e-41ab-a469-d73ba771b692/'
 videoPoster: 'https://ucarecdn.com/1ae240ab-fefe-4f3f-bd84-5c3e0a83c7a9/'
 videoTitle: METODOLOGÍA PARA EL DIAGNÓSTICO E INTEREVENCIÓN DEL RIESGO PSICOSOCIAL
