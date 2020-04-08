@@ -89,6 +89,12 @@ section2: >-
   * Focus Groups
 
   * Análisis de Puestos de Trabajo
+
+
+
+
+  ## [Descargar Batería de Riesgo Psicosocial
+  PDF](https://drive.google.com/file/d/1cwmRQtVEWO6m9p-PK2Xv4KtSo0iW1vF6/view?usp=sharing)
 video: 'https://ucarecdn.com/fca1505b-ee5e-41ab-a469-d73ba771b692/'
 videoPoster: 'https://ucarecdn.com/1ae240ab-fefe-4f3f-bd84-5c3e0a83c7a9/'
 videoTitle: METODOLOGÍA PARA EL DIAGNÓSTICO E INTEREVENCIÓN DEL RIESGO PSICOSOCIAL
@@ -253,7 +259,9 @@ phone: 'Mobile: 301 5103946  Teléfono:  (1) 5276449'
 email: servicio@bienestaryproductividad.com.co
 alt: Riesgo Psicosocial Colombia
 meta:
-  description: 'Riesgo Psicosocial en Colombia, Envaluación de Riesgo psicosocial'
+  description: >-
+    Riesgo Psicosocial, Bateria de Riesgo, Factores de Psicosocial, Riesgo
+    Psicosocial Colombia  
   title: Riesgo Psicosocial
 locations:
   - lat: '4.7171396 '
