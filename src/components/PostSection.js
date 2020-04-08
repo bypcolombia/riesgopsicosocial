@@ -7,7 +7,7 @@ class PostSection extends React.Component {
   static defaultProps = {
     posts: [],
     title: '',
-    limit: 12,
+    limit: 15,
     showLoadMore: true,
     loadMoreTitle: 'Cargar Más',
     perPageLimit: 15
