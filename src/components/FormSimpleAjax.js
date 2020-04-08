@@ -109,7 +109,16 @@ class Form extends React.Component {
             />
             <span>Email</span>
           </label>
-          
+          <label className="Form--Label">
+            <input
+              className="Form--Input Form--InputText"
+              type="email"
+              placeholder="ciudad"
+              name="ciudad"
+              required
+            />
+            <span>Ciudad</span>
+          </label>
           <label className="Form--Label">
             <textarea
               className="Form--Input Form--Textarea Form--InputText"
