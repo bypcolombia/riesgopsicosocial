@@ -112,7 +112,7 @@ class Form extends React.Component {
           <label className="Form--Label">
             <input
               className="Form--Input Form--InputText"
-              type="email"
+              type="text"
               placeholder="ciudad"
               name="ciudad"
               required
