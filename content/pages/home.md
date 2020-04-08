@@ -145,7 +145,7 @@ gallery:
   - alt: Onteal
     image: 'https://ucarecdn.com/df4008f4-36ee-4e31-b0ed-73d9a491c334/'
   - alt: VINYL BOX MUSIC CENTER
-    image: 'https://ucarecdn.com/230575a6-6017-444f-bb13-f98e61d7b718/'
+    image: 'https://ucarecdn.com/9299bd1a-36a4-471d-b27e-67ad0d4b94c4/'
   - alt: DNA MUSIC
     image: 'https://ucarecdn.com/29b33fee-397a-4a9e-b7b1-328a1126f2b3/'
     title: ''
