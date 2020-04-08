@@ -9,8 +9,8 @@ class PostSection extends React.Component {
     title: '',
     limit: 12,
     showLoadMore: true,
-    loadMoreTitle: 'Load More',
-    perPageLimit: 12
+    loadMoreTitle: 'Cargar Más',
+    perPageLimit: 15
   }
 
   state = {
