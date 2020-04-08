@@ -9,8 +9,8 @@
   text-decoration: none;
 }
 .img-social{
-  height: 3.2rem;
-  width: 3.2rem;
+  height: 2.5rem;
+  width: 2.5rem;
   position: relative;
   display: inline-block;
   /* background: lightblue; */
@@ -24,8 +24,8 @@ fill: var(--primary)!important;
     
  }
 .img-social:hover {
-  height: 3.7rem;
-  width: 3.7rem;
+  height: 2.7rem;
+  width: 2.7rem;
 }
 
 .img-social:hover .SVGIcon--icon {
@@ -35,5 +35,5 @@ fill: var(--primary)!important;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 5rem;
+  height: 3rem;
 }
