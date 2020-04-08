@@ -42,8 +42,8 @@ section2: >-
 
   PSICÓLOGOS - ESPECIALISTAS, CON LICENCIA VIGENTE EN SALUD Y SEGURIDAD EN EL
   TRABAJO (SST), preferiblemente RESPALDADOS por ORGANIZACIONES QUE CUENTEN CON
-  LICENCIA VIGENTE EN SST, como es el caso de [BIENESTAR Y PRODUCTIVIDAD
-  ](https://bienestaryproductividad.com.co/)
+  LICENCIA VIGENTE EN SST, como es el caso de **[BIENESTAR Y PRODUCTIVIDAD
+  ](https://bienestaryproductividad.com.co/)**
 
 
   ## Cuáles son los cuestionarios para Diagnosticar el Riesgo Psicosocial
@@ -145,7 +145,7 @@ gallery:
   - alt: Onteal
     image: 'https://ucarecdn.com/df4008f4-36ee-4e31-b0ed-73d9a491c334/'
   - alt: VINYL BOX MUSIC CENTER
-    image: 'https://ucarecdn.com/230575a6-6017-444f-bb13-f98e61d7b718/'
+    image: 'https://ucarecdn.com/9299bd1a-36a4-471d-b27e-67ad0d4b94c4/'
   - alt: DNA MUSIC
     image: 'https://ucarecdn.com/29b33fee-397a-4a9e-b7b1-328a1126f2b3/'
     title: ''
@@ -205,44 +205,44 @@ section4: >-
 
   ###### Al momento de diligenciar el formulario autoriza a BIENESTAR Y
   PRODUCTIVIDAD SAS NIT. 900.791.434-0, domiciliada y ubicada en Bogotá -
-  Colombia - Teléfono 52 76449 y páginas web: www.bienestaryproductiviad.com.co
-  y www.riesgopsicosocial.com.co, como responsables del tratamiento de datos
-  personales a recopilar, almacenar, usar y circular los datos por usted
-  incluidos para: a) Realizar el registro en nuestras bases de datos, b)
-  Enviarle la propuesta que aquí nos solicita, c) enviar comunicaciones e
-  información sobre nuestros servicios, d) responder inquietudes sobre nuestros
-  servicios, e) invitar y/o enviar comunicaciones de los eventos, cursos, foros,
-  seminarios, talleres y capacitaciones y demás servicios propios del objeto
-  social de Bienestar y Productividad sas, f) permitir el registro fotográfico y
-  audiovisual, en los eventos de formación, difusión y promoción de nuestros
-  servicios, con el fin de generar y publicar noticias en los diferentes medios
-  de comunicación, en los eventos de formación, difusión y promoción, en
-  nuestros portales web y redes sociales, en la elaboración de piezas
-  promocionales y publicitarias de carácter digital, impreso y audiovisual. En
-  todo caso, BIENESTAR Y PRODUCTIVIDAD SAS, respetará los derechos de autoría y
-  propiedad intelectual de las piezas utilizadas en material promocional o
-  publicitario, sin que esto suponga retribución y/o compensación económica
-  alguna, g) realizar encuestas o evaluaciones de los servicios realizados y
-  ofrecidos h) generar informes o estadísticas de los solicitantes en nuestras
-  páginas web’s. Estas finalidades se podrán realizar a través de medios
-  físicos, digitales, electrónicos o telefónicos. Usted podrá resolver dudas o
-  inquietudes respecto al manejo del tratamiento de los datos personales y/o
-  solicitar la Política de Protección de Datos Personales en el mail
-  servicio@bienestaryproductividad.com.co; considerando el cumplimiento de lo
-  descrito en el Artículo 2.2.2.25.4.1 del Decreto 1074 de 2015. Así mismo, le
-  informamos que sus derechos como titular de datos personales son: (i) Acceder
-  en forma gratuita a los datos proporcionados que hayan sido objeto de
-  tratamiento. (ii) Conocer, actualizar y rectificar su información frente a
-  datos parciales, inexactos, incompletos, fraccionados, que induzcan a error, o
-  a aquellos cuyo tratamiento esté prohibido o no haya sido autorizado. (iii)
-  Solicitar prueba de la autorización otorgada. (iv) Presentar ante la
-  Superintendencia de Industria y Comercio (SIC) quejas por infracciones a lo
-  dispuesto en la normatividad vigente. (v) Revocar la autorización y/o
-  solicitar la supresión del dato, siempre que no exista un deber legal o
-  contractual que impida eliminarlos. (vi) Abstenerse de responder las preguntas
-  sobre datos sensibles.`
-address: 'Cl. 138 # 10 A - 39, Bogotá, Colombia'
-phone: 'Mobile: 301 5103946  Teléfono:  (1) 5276449'
+  Colombia - Teléfono +57 301 5103946 y páginas web:
+  www.bienestaryproductiviad.com.co y www.riesgopsicosocial.co, como
+  responsables del tratamiento de sus datos personales a recopilar, almacenar,
+  usar y circular los datos por usted incluidos en el presente formulario, para:
+  a) Realizar el registro en nuestras bases de datos, b) Enviarle la propuesta
+  que aquí nos solicita, c) enviar comunicaciones e información sobre nuestros
+  servicios, d) responder inquietudes sobre nuestros servicios, e) invitar y/o
+  enviar comunicaciones de los eventos, cursos, foros, seminarios, talleres y
+  capacitaciones y demás servicios propios del objeto social de Bienestar y
+  Productividad sas, f) permitir el registro fotográfico y audiovisual, en los
+  eventos de formación, difusión y promoción de nuestros servicios, con el fin
+  de generar y publicar noticias en los diferentes medios de comunicación, en
+  los eventos de formación, difusión y promoción, en nuestros portales web y
+  redes sociales, en la elaboración de piezas promocionales y publicitarias de
+  carácter digital, impreso y audiovisual. En todo caso, BIENESTAR Y
+  PRODUCTIVIDAD SAS, respetará los derechos de autoría y propiedad intelectual
+  de las piezas utilizadas en material promocional o publicitario, sin que esto
+  suponga retribución y/o compensación económica alguna, g) realizar encuestas o
+  evaluaciones de los servicios realizados y ofrecidos h) generar informes o
+  estadísticas de los solicitantes en nuestras páginas web’s. Estas finalidades
+  se podrán realizar a través de medios físicos, digitales, electrónicos o
+  telefónicos. Usted podrá resolver dudas o inquietudes respecto al manejo del
+  tratamiento de los datos personales y/o solicitar la Política de Protección de
+  Datos Personales en el mail servicio@bienestaryproductividad.com.co;
+  considerando el cumplimiento de lo descrito en el Artículo 2.2.2.25.4.1 del
+  Decreto 1074 de 2015. Así mismo, le informamos que sus derechos como titular
+  de datos personales son: (i) Acceder en forma gratuita a los datos
+  proporcionados que hayan sido objeto de tratamiento. (ii) Conocer, actualizar
+  y rectificar su información frente a datos parciales, inexactos, incompletos,
+  fraccionados, que induzcan a error, ó a aquellos cuyo tratamiento esté
+  prohibido o no haya sido autorizado. (iii) Solicitar prueba de la autorización
+  otorgada. (iv) Presentar ante la Superintendencia de Industria y Comercio
+  (SIC) quejas por infracciones a lo dispuesto en la normatividad vigente. (v)
+  Revocar la autorización y/o solicitar la supresión del dato, siempre que no
+  exista un deber legal o contractual que impida eliminarlos. (vi) Abstenerse de
+  responder las preguntas sobre datos sensibles.`
+address: 'Cl. 138 # 10 A - 39 [205] Bogotá, Colombia'
+phone: 'Celular: 301 5103946  Teléfono:  (1) 5276449'
 email: servicio@bienestaryproductividad.com.co
 alt: Riesgo Psicosocial
 meta:
