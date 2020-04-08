@@ -260,8 +260,8 @@ email: servicio@bienestaryproductividad.com.co
 alt: Riesgo Psicosocial Colombia
 meta:
   description: >-
-    Riesgo Psicosocial, Bateria de Riesgo Psicosocial Colombia, Evaluación de
-    Riesgo Psicosocial Bogota, Diagnóstico de Riesgo Psicosocial 
+    Riesgo Psicosocial, Bateria de Riesgo, Factores de Psicosocial, Riesgo
+    Psicosocial Colombia  
   title: Riesgo Psicosocial
 locations:
   - lat: '4.7171396 '
