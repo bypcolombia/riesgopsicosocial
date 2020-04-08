@@ -1,7 +1,7 @@
 ---
 template: ComponentsPage
 slug: ''
-title: Riesgo Psicosocial
+title: 'Bateria de Riesgo Psicosocial '
 featuredImage: 'https://ucarecdn.com/0599753e-5563-4fc1-8243-caddbdfc24a7/'
 subtitle: '### **_Prevención, Diagnóstico e Intervención_**'
 section1: >-
@@ -257,12 +257,13 @@ section4: >-
 address: 'Cl. 138 # 10 A - 39, Bogotá, Colombia'
 phone: 'Mobile: 301 5103946  Teléfono:  (1) 5276449'
 email: servicio@bienestaryproductividad.com.co
-alt: Riesgo Psicosocial Colombia
+alt: Riesgo Psicosocial
 meta:
   description: >-
-    Riesgo Psicosocial, Bateria de Riesgo, Factores de Psicosocial, Riesgo
-    Psicosocial Colombia  
-  title: Riesgo Psicosocial
+    Riesgo Psicosocial, Bateria de Riesgo, Riesgo Psicosocial Colombia, 
+    Factores de Psicosocial, Batería de Riesgo Psicosocial pdf, Riesgo
+    Psicosocial definición 
+  title: Riesgo Psicosocial Colombia
 locations:
   - lat: '4.7171396 '
     lng: ' 74.0368383'
