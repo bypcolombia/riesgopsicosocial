@@ -250,7 +250,7 @@ meta:
     Riesgo Psicosocial, Bateria de Riesgo, Riesgo Psicosocial Colombia, 
     Factores de Psicosocial, Batería de Riesgo Psicosocial pdf, Riesgo
     Psicosocial definición 
-  title: Riesgo Psicosocial Colombia
+  title: Riesgo Psicosocial
 locations:
   - lat: '4.7171396 '
     lng: ' 74.0368383'
