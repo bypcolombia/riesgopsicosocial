@@ -61,7 +61,7 @@ export const ComponentsPageTemplate = ({
     
     <section className="section">
       <div className="container">
-        <h2>Nuestros Clientes</h2>
+        <h2>Han confiado en nosotros</h2>
         <Gallery images={gallery} />
       </div>
     </section>
