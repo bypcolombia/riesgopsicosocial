@@ -10,4 +10,5 @@ meta:
     Competencias Blandas, Salud Ocupacional, Trabajo en Casa (Teletrabajo),
     Baile Terapia
   title: Blog Page
+  noindex: true
 ---
