@@ -122,6 +122,7 @@ meta:
   title: >-
     Riesgo Psicosocial, Batería de Riesgo psicosocial Colombia, Sistema de
     Seguridad y Salud en el trabajo, SGSST, Capacitación, Baile Terapia
+  noindex: true
 ---
 ## Quiénes somos
 
