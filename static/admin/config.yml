@@ -14,7 +14,7 @@ media_library:
     previewStep: true
     clearable: true
 # media_folder: "/images"
-       collections: # A list of collections the CMS should be able to edit
+collections: # A list of collections the CMS should be able to edit
   - name: 'pages'
     label: 'Página'
     delete: false # Prevent users from deleting documents in this collection
