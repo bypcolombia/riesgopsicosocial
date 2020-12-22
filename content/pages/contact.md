@@ -5,7 +5,7 @@ title: Contacto
 featuredImage: https://ucarecdn.com/99a3b301-6bc3-48ad-bd56-e4aaeb854e43/
 subtitle: "### **_Contáctanos para tener el gusto de servirte_**"
 address: "Cl. 138 # 10 A - 39, Bogotá | Cra.18 #1E-76 Puerto Colombia"
-phone: "Teléfono: 301 5103946  "
+phone: "Teléfono: 301 5103946"
 email: servicio@bienestaryproductividad.com.co
 locations:
   - lat: "4.7171396 "
