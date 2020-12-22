@@ -162,7 +162,7 @@ collections: # A list of collections the CMS should be able to edit
             name: 'gallery'
             widget: 'list'
             fields:
-              - { name: image, label: Imagen, widget: image, defaultOperations: '/resize/300x/'}
+              - { name: image, label: Imagen, widget: image, defaultOperations: '/resize/300x/' }
           - { label: Sección 4, name: section4, widget: markdown }
           - { label: Dirección, name: address, widget: text }
           - { label: Teléfono, name: phone, widget: string }
