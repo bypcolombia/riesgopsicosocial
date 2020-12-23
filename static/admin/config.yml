@@ -14,7 +14,7 @@ media_library:
     previewStep: true
     clearable: true
 # media_folder: "/images"
-       collections: # A list of collections the CMS should be able to edit
+collections: # A list of collections the CMS should be able to edit
   - name: 'pages'
     label: 'Página'
     delete: false # Prevent users from deleting documents in this collection
@@ -137,7 +137,7 @@ media_library:
                   required: false,
                 }
 
-      - file: 'content/pages/components.md'
+      - file: 'content/pages/home.md'
         label: 'Riesgo Psicosocial'
         name: 'components-page'
         create: true
@@ -162,9 +162,13 @@ media_library:
             name: 'gallery'
             widget: 'list'
             fields:
-              - { name: image, label: Imagen, widget: image, defaultOperations: '/resize/300x/'}
-              - { name: alt, label: Nombre para SEO2, widget: string }
-              - { name: title, label: Titlulo2, widget: string, required: false }
+          - { name: image, label: Imagen, widget: image, defaultOperations: '/resize/300x/' }
+          - { label: Sección 4, name: section4, widget: markdown }
+          - { label: Dirección, name: address, widget: text }
+          - { label: Teléfono, name: phone, widget: string }
+          - { label: Email Address, name: email, widget: string }
+          - { name: alt, label: Nombre para SEO2, widget: string }
+          - { name: title, label: Titlulo2, widget: string, required: false }
           - label: 'Meta'
             required: false
             name: 'meta'
@@ -190,7 +194,7 @@ media_library:
                   required: false,
                 }
 
-      - file: 'content/pages/home.md'
+      - file: 'content/pages/home2.md'
         label: 'Inicio'
         name: 'home-page'
         fields:
@@ -205,13 +209,13 @@ media_library:
           - { label: Imagen Principal, name: featuredImage, widget: image }
           - { label: Subtitulo, name: subtitle, widget: markdown }
           - { label: Body, name: body, widget: markdown }
-          - label: 'Galería2'
-            name: 'gallery'
-            widget: 'list'
-            fields:
-              - { name: image, label: ImagenHome, widget: image}
-              - { name: alt, label: Nombre para SEO2, widget: string, required: false }
-              - { name: title, label: Titlulo2, widget: string, required: false }
+          # - label: 'Galería2'
+          #   name: 'gallery'
+          #   widget: 'list'
+          #   fields:
+          #     - { name: image, label: ImagenHome, widget: image}
+          #     - { name: alt, label: Nombre para SEO2, widget: string, required: false }
+          #     - { name: title, label: Titlulo2, widget: string, required: false }
           - label: 'Meta'
             required: false
             name: 'meta'
