@@ -162,15 +162,7 @@ collections: # A list of collections the CMS should be able to edit
             name: 'gallery'
             widget: 'list'
             fields:
-<<<<<<< HEAD
-          - { name: image, label: Imagen, widget: image, defaultOperations: '/resize/300x/' }
-=======
-              - { name: image, label: Imagen, widget: image, defaultOperations: '/resize/300x/'}
->>>>>>> parent of ec00d25... Update config.yml
           - { label: Sección 4, name: section4, widget: markdown }
-          - { label: Dirección, name: address, widget: text }
-          - { label: Teléfono, name: phone, widget: string }
-          - { label: Email Address, name: email, widget: string }
           - { name: alt, label: Nombre para SEO2, widget: string }
           - { name: title, label: Titlulo2, widget: string, required: false }
           - label: 'Meta'
