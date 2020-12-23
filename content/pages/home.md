@@ -256,8 +256,8 @@ section4: >-
   Revocar la autorización y/o solicitar la supresión del dato, siempre que no
   exista un deber legal o contractual que impida eliminarlos. (vi) Abstenerse de
   responder las preguntas sobre datos sensibles.`
-address: 'Cl. 138 # 10 A - 39 [205] Bogotá, Colombia'
-phone: 'Celular: 301 5103946  Teléfono:  (1) 5276449'
+address: "Cl. 138 # 10 A - 39, Bogotá | Cra.18 #1E-76 Puerto Colombia"
+phone: "Teléfono: 301 5103946  "
 email: servicio@bienestaryproductividad.com.co
 alt: Riesgo Psicosocial
 meta:
