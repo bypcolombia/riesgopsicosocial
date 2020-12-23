@@ -21,7 +21,7 @@ collections: # A list of collections the CMS should be able to edit
     editor:
       preview: true
     files:
-      - file: 'content/pages/home.md'
+      - file: 'content/pages/contact.md'
         label: 'Contacto'
         name: 'contact-page'
         fields:
