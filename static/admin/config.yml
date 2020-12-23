@@ -162,7 +162,15 @@ collections: # A list of collections the CMS should be able to edit
             name: 'gallery'
             widget: 'list'
             fields:
+<<<<<<< HEAD
           - { label: Sección 4, name: section4, widget: markdown }
+=======
+          - { name: image, label: Imagen, widget: image, defaultOperations: '/resize/300x/' }
+          - { label: Sección 4, name: section4, widget: markdown }
+          - { label: Dirección, name: address, widget: text }
+          - { label: Teléfono, name: phone, widget: string }
+          - { label: Email Address, name: email, widget: string }
+>>>>>>> parent of d0429ad... Update config.yml
           - { name: alt, label: Nombre para SEO2, widget: string }
           - { name: title, label: Titlulo2, widget: string, required: false }
           - label: 'Meta'
@@ -205,13 +213,13 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Imagen Principal, name: featuredImage, widget: image }
           - { label: Subtitulo, name: subtitle, widget: markdown }
           - { label: Body, name: body, widget: markdown }
-          # - label: 'Galería2'
-          #   name: 'gallery'
-          #   widget: 'list'
-          #   fields:
-          #     - { name: image, label: ImagenHome, widget: image}
-          #     - { name: alt, label: Nombre para SEO2, widget: string, required: false }
-          #     - { name: title, label: Titlulo2, widget: string, required: false }
+          - label: 'Galería2'
+             name: 'gallery'
+             widget: 'list'
+             fields:
+               - { name: image, label: ImagenHome, widget: image}
+               - { name: alt, label: Nombre para SEO2, widget: string, required: false }
+               - { name: title, label: Titlulo2, widget: string, required: false }
           - label: 'Meta'
             required: false
             name: 'meta'
